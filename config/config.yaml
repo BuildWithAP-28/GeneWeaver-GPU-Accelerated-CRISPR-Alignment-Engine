@@ -1,0 +1,14 @@
+# Phase 1 Configuration: GeneWeaver Engine
+
+hardware:
+  max_vram_buffer_mb: 3000  # Strict cap for 4GB RTX 3050 to avoid OOM crashes
+
+paths:
+  synthetic_data_output: "data/mock_genome.fasta"
+  mutation_ground_truth: "data/ground_truth_mutations.json"
+
+sequence:
+  target_mutation: "GATCGATCGATC"
+  gc_content_target: 0.41 
+  mock_file_size_mb: 100  
+  format: "fasta" # Supported: fasta, fastq, fasta.gz
