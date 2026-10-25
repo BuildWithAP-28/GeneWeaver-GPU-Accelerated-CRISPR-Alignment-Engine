@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "timestamp": "20261026_021037",
+        "engine": "Pure Python KMP (Baseline)"
+    },
+    "performance": {
+        "total_time_sec": 50.76552486419678,
+        "data_processed_mb": 150.0,
+        "total_bases": 157286400,
+        "throughput_mb_s": 2.9547611376276732,
+        "throughput_bp_s": 3098291.614649075
+    },
+    "accuracy": {
+        "Total Injected (Expected)": 7,
+        "Total Matches Found": 14,
+        "True Positives (Injected found)": 7,
+        "Natural Off-Targets (Randomly occurred)": 7,
+        "False Negatives (Missed)": 0,
+        "Engine Precision": "100.00%"
+    }
+}
