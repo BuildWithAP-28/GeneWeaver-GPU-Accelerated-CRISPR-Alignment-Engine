@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Workspace Environment
+geneweaver_env/
+.env
+
+# Data and Logs
+data/
+logs/
+*.fasta
+*.fasta.gz
+*.fastq
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
