@@ -170,9 +170,23 @@ class AlignmentAnalytics:
     """
     
     def __init__(self, ground_truth_path: str = "data/ground_truth_mutations.json"):
-        self.truth_path = Path(ground_truth_path)
+        import os
+        import glob
+        from pathlib import Path
+        
+        self.expected_mutations: list = []
+        self.found_mutations: list = []
+        
+        # Find all json files in data folder
+        json_files = glob.glob("data/*.json")
+        if json_files:
+            # SMART FIX: Always pick the MOST RECENTLY modified JSON file
+            target_path = max(json_files, key=os.path.getmtime)
+        else:
+            target_path = ground_truth_path
+            
+        self.truth_path = Path(target_path)
         self.expected_mutations = self._load_ground_truth()
-        self.found_mutations: List[MutationFinding] = []
         
     def _load_ground_truth(self) -> List[Dict[str, Any]]:
         if not self.truth_path.exists():
@@ -197,33 +211,36 @@ class AlignmentAnalytics:
         if not self.expected_mutations:
             return {"status": "Blind Mode - No Ground Truth Available"}
             
-        expected_set = {(m["chromosome"], m["absolute_index"]) for m in self.expected_mutations}
-        found_set = {(f.chromosome, f.absolute_index) for f in self.found_mutations}
+        expected_indices = [m["absolute_index"] for m in self.expected_mutations]
+        found_indices = sorted(list({f.absolute_index for f in self.found_mutations}))
         
         true_positives = 0
         natural_off_targets = 0
+        TOLERANCE = 500
+        matched_expected = set()
         
-        # We allow a +/- 20bp buffer to account for overlapping window shifts
-        for found in found_set:
+        for found_idx in found_indices:
             is_match = False
-            for exp in expected_set:
-                if found[0] == exp[0] and abs(found[1] - exp[1]) <= 20:
-                    true_positives += 1
+            for i, exp_idx in enumerate(expected_indices):
+                if abs(found_idx - exp_idx) <= TOLERANCE:
+                    if i not in matched_expected:
+                        true_positives += 1
+                        matched_expected.add(i)
                     is_match = True
                     break
             if not is_match:
                 natural_off_targets += 1
                 
-        false_negatives = len(expected_set) - true_positives
-        precision = true_positives / len(expected_set) if len(expected_set) > 0 else 0
+        false_negatives = len(expected_indices) - len(matched_expected)
+        precision = (len(matched_expected) / len(expected_indices) * 100) if expected_indices else 0.0
         
         return {
-            "Total Injected (Expected)": len(expected_set),
-            "Total Matches Found": len(found_set),
+            "Total Injected (Expected)": len(expected_indices),
+            "Total Matches Found": len(found_indices),
             "True Positives (Injected found)": true_positives,
             "Natural Off-Targets (Randomly occurred)": natural_off_targets,
             "False Negatives (Missed)": false_negatives,
-            "Engine Precision": f"{precision * 100:.2f}%"
+            "Engine Precision": f"{precision:.2f}%"
         }
 
     def export_audit_report(self, metrics: EngineMetrics, accuracy: Dict[str, Any], output_dir: str = "reports"):

@@ -269,7 +269,30 @@ class PipelineOrchestrator:
 # Advanced CLI Argument Parsing
 # ==========================================
 def parse_arguments():
-    """Constructs a robust Command Line Interface with organized argument groups."""
+    """Constructs a robust Command Line Interface synced with config/config.yaml."""
+    import yaml
+    
+    # Defaults fallback
+    default_file = "data/mock_genome.fastq"
+    default_mutation = "GATCGATCGATC"
+    
+    # Sync automatically with config/config.yaml
+    config_path = Path("config/config.yaml")
+    if config_path.exists():
+        try:
+            with open(config_path, "r") as f:
+                cfg = yaml.safe_load(f)
+            out_path = cfg["paths"]["synthetic_data_output"]
+            fmt = cfg["sequence"]["format"].lower()
+            if fmt == "fastq":
+                out_path = out_path.replace(".fasta", ".fastq")
+            elif fmt == "fasta.gz":
+                out_path = out_path.replace(".fasta", ".fasta.gz")
+            default_file = out_path
+            default_mutation = cfg["sequence"]["target_mutation"]
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(
         description="GeneWeaver: High-Performance CRISPR Alignment Pipeline (Phase 1 Baseline)",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
@@ -277,11 +300,11 @@ def parse_arguments():
     )
     
     io_group = parser.add_argument_group('Input/Output Settings')
-    io_group.add_argument('-f', '--file', type=str, default="data/mock_genome.fastq", 
+    io_group.add_argument('-f', '--file', type=str, default=default_file, 
                           help='Absolute or relative path to the target DNA FASTA/FASTQ dataset.')
     
     bio_group = parser.add_argument_group('Biological Parameters')
-    bio_group.add_argument('-m', '--mutation', type=str, default="GATCGATCGATC", 
+    bio_group.add_argument('-m', '--mutation', type=str, default=default_mutation, 
                            help='The precise CRISPR off-target nucleotide sequence to hunt.')
                            
     mem_group = parser.add_argument_group('Memory Tuning (Advanced)')
