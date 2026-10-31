@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "timestamp": "20261026_151253",
+        "engine": "Pure Python KMP (Baseline)"
+    },
+    "performance": {
+        "total_time_sec": 49.695810317993164,
+        "data_processed_mb": 150.0,
+        "total_bases": 157286400,
+        "throughput_mb_s": 3.018363098220578,
+        "throughput_bp_s": 3164983.1040797406
+    },
+    "accuracy": {
+        "status": "Blind Mode - No Ground Truth Available"
+    }
+}
