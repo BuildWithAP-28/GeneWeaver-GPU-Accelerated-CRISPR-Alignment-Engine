@@ -34,6 +34,7 @@ from parser import GenomicParser
 from chunker import BatchOptimizer
 from cpu_baseline import EngineMetrics, display_baseline_dashboard
 from numba_engine import NumbaAcceleratedEngine
+from vector_engine import VectorizedEngine
 
 console = Console()
 
@@ -66,15 +67,15 @@ class WorkerResult:
 def parallel_jit_worker(batch_payload: Dict[str, Any], target_mutation: str) -> WorkerResult:
     """
     Isolated worker function. Runs entirely in its own RAM space on a dedicated CPU core.
-    Initializes a fresh Numba JIT engine to prevent memory corruption across processes.
+    Initializes a fresh Vector JIT engine to prevent memory corruption across processes.
     """
     pid = os.getpid()
     start_time = time.time()
     batch_id = batch_payload.get("batch_id", -1)
     
     try:
-        # Spin up LLVM compiler strictly within this process
-        engine = NumbaAcceleratedEngine(target_mutation=target_mutation)
+        # Spin up SIMD Vector compiler strictly within this process
+        engine = VectorizedEngine(target_mutation=target_mutation)
         matches = engine.process_batch(batch_payload)
         
         elapsed = time.time() - start_time
@@ -85,6 +86,7 @@ def parallel_jit_worker(batch_payload: Dict[str, Any], target_mutation: str) -> 
             execution_time=elapsed
         )
     except Exception as e:
+        import traceback
         error_trace = traceback.format_exc()
         return WorkerResult(
             worker_pid=pid, 
