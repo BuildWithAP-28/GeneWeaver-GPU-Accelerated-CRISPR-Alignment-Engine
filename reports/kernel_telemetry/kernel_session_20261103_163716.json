@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": 1793704055.9908538,
+        "workload_mb": 50,
+        "grid_config": "102400x512",
+        "threads_deployed": 52428800,
+        "matches_found": 10,
+        "latency_ms": 270.013,
+        "throughput_gbs": 0.181,
+        "verified": true
+    },
+    {
+        "timestamp": 1793704116.850746,
+        "workload_mb": 150,
+        "grid_config": "307200x512",
+        "threads_deployed": 157286400,
+        "matches_found": 12,
+        "latency_ms": 76.847,
+        "throughput_gbs": 1.906,
+        "verified": true
+    },
+    {
+        "timestamp": 1793704120.082703,
+        "workload_mb": 250,
+        "grid_config": "512000x512",
+        "threads_deployed": 262144000,
+        "matches_found": 26,
+        "latency_ms": 87.173,
+        "throughput_gbs": 2.801,
+        "verified": false
+    },
+    {
+        "timestamp": 1793704125.3357174,
+        "workload_mb": 500,
+        "grid_config": "1024000x512",
+        "threads_deployed": 524288000,
+        "matches_found": 29,
+        "latency_ms": 50.16,
+        "throughput_gbs": 9.734,
+        "verified": false
+    }
+]
