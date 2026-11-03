@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "project": "GeneWeaver",
+        "phase": "Mid-Project Review (Week 2)",
+        "author": "Ayush Pandey",
+        "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU"
+    },
+    "results": [
+        {
+            "workload_mb": 10,
+            "cpu_latency_ms": 26.048499974422157,
+            "gpu_latency_ms": 236.9137000059709,
+            "cpu_throughput_mbs": 383.89926520987063,
+            "gpu_throughput_gbs": 0.0412201784858954,
+            "speedup_multiplier": 0.10994931898731758,
+            "matches_found": 6,
+            "is_verified": true,
+            "timestamp": "2026-11-03T16:57:02.462467"
+        },
+        {
+            "workload_mb": 50,
+            "cpu_latency_ms": 129.0628999704495,
+            "gpu_latency_ms": 5.166699993424118,
+            "cpu_throughput_mbs": 387.408000373834,
+            "gpu_throughput_gbs": 9.450543879487036,
+            "speedup_multiplier": 24.979754995396178,
+            "matches_found": 6,
+            "is_verified": true,
+            "timestamp": "2026-11-03T16:57:03.474476"
+        },
+        {
+            "workload_mb": 100,
+            "cpu_latency_ms": 247.70409998018295,
+            "gpu_latency_ms": 10.176899959333241,
+            "cpu_throughput_mbs": 403.7074881198991,
+            "gpu_throughput_gbs": 9.595874027477237,
+            "speedup_multiplier": 24.339838356474495,
+            "matches_found": 7,
+            "is_verified": true,
+            "timestamp": "2026-11-03T16:57:04.950747"
+        },
+        {
+            "workload_mb": 250,
+            "cpu_latency_ms": 685.2722000330687,
+            "gpu_latency_ms": 25.287500000558794,
+            "cpu_throughput_mbs": 364.818534865322,
+            "gpu_throughput_gbs": 9.654597132757491,
+            "speedup_multiplier": 27.09924666408011,
+            "matches_found": 24,
+            "is_verified": true,
+            "timestamp": "2026-11-03T16:57:08.337816"
+        },
+        {
+            "workload_mb": 500,
+            "cpu_latency_ms": 1253.0825999565423,
+            "gpu_latency_ms": 50.18630006816238,
+            "cpu_throughput_mbs": 399.0159946497863,
+            "gpu_throughput_gbs": 9.72937334166541,
+            "speedup_multiplier": 24.96861889110418,
+            "matches_found": 33,
+            "is_verified": true,
+            "timestamp": "2026-11-03T16:57:14.392580"
+        }
+    ]
+}
