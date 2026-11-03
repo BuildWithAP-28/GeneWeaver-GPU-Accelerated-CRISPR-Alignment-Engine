@@ -1,0 +1,3602 @@
+[
+    {
+        "timestamp": 1793442001.7337413,
+        "elapsed_sec": 0.0,
+        "throughput_mbps": 0.0,
+        "fast_path_hits": 0,
+        "c_array_overhead": 0.0,
+        "cpu_percent": 26.9,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442002.003886,
+        "elapsed_sec": 0.27,
+        "throughput_mbps": 0.45,
+        "fast_path_hits": 21,
+        "c_array_overhead": 3.16,
+        "cpu_percent": 4.2,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442002.2754831,
+        "elapsed_sec": 0.54,
+        "throughput_mbps": 10.08,
+        "fast_path_hits": 40,
+        "c_array_overhead": 1.87,
+        "cpu_percent": 5.2,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442002.5369966,
+        "elapsed_sec": 0.8,
+        "throughput_mbps": 3.63,
+        "fast_path_hits": 65,
+        "c_array_overhead": 3.35,
+        "cpu_percent": 8.2,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442002.813519,
+        "elapsed_sec": 1.08,
+        "throughput_mbps": 3.12,
+        "fast_path_hits": 80,
+        "c_array_overhead": 1.91,
+        "cpu_percent": 8.0,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442003.0756292,
+        "elapsed_sec": 1.34,
+        "throughput_mbps": 2.91,
+        "fast_path_hits": 102,
+        "c_array_overhead": 1.43,
+        "cpu_percent": 4.4,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442003.3412392,
+        "elapsed_sec": 1.61,
+        "throughput_mbps": 5.52,
+        "fast_path_hits": 108,
+        "c_array_overhead": 2.68,
+        "cpu_percent": 4.1,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442003.6061988,
+        "elapsed_sec": 1.87,
+        "throughput_mbps": 10.3,
+        "fast_path_hits": 133,
+        "c_array_overhead": 3.71,
+        "cpu_percent": 9.8,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442003.8720765,
+        "elapsed_sec": 2.14,
+        "throughput_mbps": 3.75,
+        "fast_path_hits": 147,
+        "c_array_overhead": 3.78,
+        "cpu_percent": 6.1,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442004.1382577,
+        "elapsed_sec": 2.4,
+        "throughput_mbps": 0.0,
+        "fast_path_hits": 159,
+        "c_array_overhead": 4.41,
+        "cpu_percent": 2.6,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442004.4093432,
+        "elapsed_sec": 2.67,
+        "throughput_mbps": 3.62,
+        "fast_path_hits": 179,
+        "c_array_overhead": 4.65,
+        "cpu_percent": 2.9,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442004.6719897,
+        "elapsed_sec": 2.94,
+        "throughput_mbps": 9.56,
+        "fast_path_hits": 195,
+        "c_array_overhead": 1.88,
+        "cpu_percent": 4.2,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442004.9364028,
+        "elapsed_sec": 3.2,
+        "throughput_mbps": 8.24,
+        "fast_path_hits": 203,
+        "c_array_overhead": 1.14,
+        "cpu_percent": 2.8,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442005.196579,
+        "elapsed_sec": 3.46,
+        "throughput_mbps": 0.0,
+        "fast_path_hits": 209,
+        "c_array_overhead": 1.64,
+        "cpu_percent": 7.6,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442005.4612765,
+        "elapsed_sec": 3.73,
+        "throughput_mbps": 1.62,
+        "fast_path_hits": 220,
+        "c_array_overhead": 2.02,
+        "cpu_percent": 5.7,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442005.7215223,
+        "elapsed_sec": 3.99,
+        "throughput_mbps": 41.17,
+        "fast_path_hits": 228,
+        "c_array_overhead": 3.82,
+        "cpu_percent": 3.0,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442005.9869812,
+        "elapsed_sec": 4.25,
+        "throughput_mbps": 41.14,
+        "fast_path_hits": 237,
+        "c_array_overhead": 1.15,
+        "cpu_percent": 8.0,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442006.2457554,
+        "elapsed_sec": 4.51,
+        "throughput_mbps": 46.91,
+        "fast_path_hits": 258,
+        "c_array_overhead": 1.18,
+        "cpu_percent": 4.5,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442006.5064564,
+        "elapsed_sec": 4.77,
+        "throughput_mbps": 45.41,
+        "fast_path_hits": 274,
+        "c_array_overhead": 4.07,
+        "cpu_percent": 2.8,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442006.7681353,
+        "elapsed_sec": 5.03,
+        "throughput_mbps": 49.05,
+        "fast_path_hits": 282,
+        "c_array_overhead": 3.62,
+        "cpu_percent": 5.2,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442007.0324414,
+        "elapsed_sec": 5.3,
+        "throughput_mbps": 48.25,
+        "fast_path_hits": 297,
+        "c_array_overhead": 3.33,
+        "cpu_percent": 2.9,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442007.2884378,
+        "elapsed_sec": 5.55,
+        "throughput_mbps": 42.57,
+        "fast_path_hits": 303,
+        "c_array_overhead": 1.55,
+        "cpu_percent": 4.1,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442007.5555933,
+        "elapsed_sec": 5.82,
+        "throughput_mbps": 51.85,
+        "fast_path_hits": 321,
+        "c_array_overhead": 4.01,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442007.8204334,
+        "elapsed_sec": 6.09,
+        "throughput_mbps": 51.02,
+        "fast_path_hits": 337,
+        "c_array_overhead": 1.59,
+        "cpu_percent": 3.0,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442008.0866492,
+        "elapsed_sec": 6.35,
+        "throughput_mbps": 47.62,
+        "fast_path_hits": 352,
+        "c_array_overhead": 2.0,
+        "cpu_percent": 4.5,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442008.3465605,
+        "elapsed_sec": 6.61,
+        "throughput_mbps": 49.12,
+        "fast_path_hits": 374,
+        "c_array_overhead": 3.81,
+        "cpu_percent": 2.2,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442008.625653,
+        "elapsed_sec": 6.89,
+        "throughput_mbps": 44.62,
+        "fast_path_hits": 381,
+        "c_array_overhead": 2.69,
+        "cpu_percent": 8.3,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442008.8879697,
+        "elapsed_sec": 7.15,
+        "throughput_mbps": 46.72,
+        "fast_path_hits": 400,
+        "c_array_overhead": 1.86,
+        "cpu_percent": 4.9,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442009.143787,
+        "elapsed_sec": 7.41,
+        "throughput_mbps": 44.09,
+        "fast_path_hits": 410,
+        "c_array_overhead": 1.6,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442009.4175682,
+        "elapsed_sec": 7.68,
+        "throughput_mbps": 51.42,
+        "fast_path_hits": 416,
+        "c_array_overhead": 1.69,
+        "cpu_percent": 3.8,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442009.685777,
+        "elapsed_sec": 7.95,
+        "throughput_mbps": 48.03,
+        "fast_path_hits": 439,
+        "c_array_overhead": 1.39,
+        "cpu_percent": 4.0,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442009.9534686,
+        "elapsed_sec": 8.22,
+        "throughput_mbps": 50.98,
+        "fast_path_hits": 452,
+        "c_array_overhead": 4.58,
+        "cpu_percent": 3.1,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442010.215648,
+        "elapsed_sec": 8.48,
+        "throughput_mbps": 44.63,
+        "fast_path_hits": 457,
+        "c_array_overhead": 1.19,
+        "cpu_percent": 4.1,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442010.4816263,
+        "elapsed_sec": 8.75,
+        "throughput_mbps": 51.57,
+        "fast_path_hits": 467,
+        "c_array_overhead": 4.4,
+        "cpu_percent": 6.9,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442010.755528,
+        "elapsed_sec": 9.02,
+        "throughput_mbps": 51.98,
+        "fast_path_hits": 476,
+        "c_array_overhead": 1.29,
+        "cpu_percent": 2.7,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442011.0201535,
+        "elapsed_sec": 9.29,
+        "throughput_mbps": 41.25,
+        "fast_path_hits": 495,
+        "c_array_overhead": 3.9,
+        "cpu_percent": 2.8,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442011.285302,
+        "elapsed_sec": 9.55,
+        "throughput_mbps": 48.73,
+        "fast_path_hits": 506,
+        "c_array_overhead": 1.82,
+        "cpu_percent": 3.0,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442011.5515168,
+        "elapsed_sec": 9.82,
+        "throughput_mbps": 45.98,
+        "fast_path_hits": 514,
+        "c_array_overhead": 3.82,
+        "cpu_percent": 4.5,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442011.8164916,
+        "elapsed_sec": 10.08,
+        "throughput_mbps": 50.18,
+        "fast_path_hits": 531,
+        "c_array_overhead": 3.85,
+        "cpu_percent": 5.0,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442012.0800889,
+        "elapsed_sec": 10.35,
+        "throughput_mbps": 42.43,
+        "fast_path_hits": 553,
+        "c_array_overhead": 2.23,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442012.3479564,
+        "elapsed_sec": 10.61,
+        "throughput_mbps": 40.04,
+        "fast_path_hits": 568,
+        "c_array_overhead": 1.32,
+        "cpu_percent": 13.7,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442012.6177058,
+        "elapsed_sec": 10.88,
+        "throughput_mbps": 44.3,
+        "fast_path_hits": 587,
+        "c_array_overhead": 2.67,
+        "cpu_percent": 4.8,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442012.8888807,
+        "elapsed_sec": 11.16,
+        "throughput_mbps": 47.41,
+        "fast_path_hits": 604,
+        "c_array_overhead": 4.53,
+        "cpu_percent": 1.4,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442013.150553,
+        "elapsed_sec": 11.42,
+        "throughput_mbps": 44.17,
+        "fast_path_hits": 610,
+        "c_array_overhead": 2.08,
+        "cpu_percent": 2.2,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442013.4112668,
+        "elapsed_sec": 11.68,
+        "throughput_mbps": 49.81,
+        "fast_path_hits": 623,
+        "c_array_overhead": 4.38,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442013.6687362,
+        "elapsed_sec": 11.93,
+        "throughput_mbps": 42.94,
+        "fast_path_hits": 638,
+        "c_array_overhead": 3.44,
+        "cpu_percent": 5.8,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442013.9276319,
+        "elapsed_sec": 12.19,
+        "throughput_mbps": 45.7,
+        "fast_path_hits": 654,
+        "c_array_overhead": 3.98,
+        "cpu_percent": 4.7,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442014.185207,
+        "elapsed_sec": 12.45,
+        "throughput_mbps": 51.93,
+        "fast_path_hits": 674,
+        "c_array_overhead": 4.98,
+        "cpu_percent": 3.1,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442014.4483972,
+        "elapsed_sec": 12.71,
+        "throughput_mbps": 41.16,
+        "fast_path_hits": 684,
+        "c_array_overhead": 1.43,
+        "cpu_percent": 4.0,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442014.729407,
+        "elapsed_sec": 13.0,
+        "throughput_mbps": 47.87,
+        "fast_path_hits": 709,
+        "c_array_overhead": 2.82,
+        "cpu_percent": 7.1,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442014.9859073,
+        "elapsed_sec": 13.25,
+        "throughput_mbps": 49.2,
+        "fast_path_hits": 715,
+        "c_array_overhead": 4.82,
+        "cpu_percent": 4.4,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442015.249431,
+        "elapsed_sec": 13.52,
+        "throughput_mbps": 45.41,
+        "fast_path_hits": 726,
+        "c_array_overhead": 1.46,
+        "cpu_percent": 4.8,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442015.5177176,
+        "elapsed_sec": 13.78,
+        "throughput_mbps": 49.78,
+        "fast_path_hits": 736,
+        "c_array_overhead": 3.91,
+        "cpu_percent": 2.6,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442015.7734938,
+        "elapsed_sec": 14.04,
+        "throughput_mbps": 43.47,
+        "fast_path_hits": 744,
+        "c_array_overhead": 3.04,
+        "cpu_percent": 4.2,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442016.0339844,
+        "elapsed_sec": 14.3,
+        "throughput_mbps": 40.44,
+        "fast_path_hits": 749,
+        "c_array_overhead": 2.17,
+        "cpu_percent": 3.5,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442016.2989192,
+        "elapsed_sec": 14.56,
+        "throughput_mbps": 42.84,
+        "fast_path_hits": 756,
+        "c_array_overhead": 1.17,
+        "cpu_percent": 10.8,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442016.566585,
+        "elapsed_sec": 14.83,
+        "throughput_mbps": 42.92,
+        "fast_path_hits": 765,
+        "c_array_overhead": 4.3,
+        "cpu_percent": 14.1,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442016.8303561,
+        "elapsed_sec": 15.1,
+        "throughput_mbps": 47.97,
+        "fast_path_hits": 783,
+        "c_array_overhead": 3.86,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442017.0987675,
+        "elapsed_sec": 15.36,
+        "throughput_mbps": 41.23,
+        "fast_path_hits": 802,
+        "c_array_overhead": 2.74,
+        "cpu_percent": 3.8,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442017.3698847,
+        "elapsed_sec": 15.64,
+        "throughput_mbps": 42.66,
+        "fast_path_hits": 813,
+        "c_array_overhead": 4.2,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442017.6396668,
+        "elapsed_sec": 15.91,
+        "throughput_mbps": 46.32,
+        "fast_path_hits": 821,
+        "c_array_overhead": 2.02,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442017.9120245,
+        "elapsed_sec": 16.18,
+        "throughput_mbps": 46.38,
+        "fast_path_hits": 841,
+        "c_array_overhead": 2.29,
+        "cpu_percent": 12.5,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442018.1762757,
+        "elapsed_sec": 16.44,
+        "throughput_mbps": 47.89,
+        "fast_path_hits": 862,
+        "c_array_overhead": 2.15,
+        "cpu_percent": 15.4,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442018.4456482,
+        "elapsed_sec": 16.71,
+        "throughput_mbps": 42.13,
+        "fast_path_hits": 879,
+        "c_array_overhead": 3.33,
+        "cpu_percent": 17.3,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442018.717372,
+        "elapsed_sec": 16.98,
+        "throughput_mbps": 44.45,
+        "fast_path_hits": 884,
+        "c_array_overhead": 3.31,
+        "cpu_percent": 4.9,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442018.9835997,
+        "elapsed_sec": 17.25,
+        "throughput_mbps": 44.05,
+        "fast_path_hits": 904,
+        "c_array_overhead": 1.89,
+        "cpu_percent": 10.9,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442019.2546535,
+        "elapsed_sec": 17.52,
+        "throughput_mbps": 46.9,
+        "fast_path_hits": 929,
+        "c_array_overhead": 1.51,
+        "cpu_percent": 15.5,
+        "ram_percent": 57.2
+    },
+    {
+        "timestamp": 1793442019.5218377,
+        "elapsed_sec": 17.79,
+        "throughput_mbps": 41.89,
+        "fast_path_hits": 953,
+        "c_array_overhead": 1.58,
+        "cpu_percent": 17.6,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442019.7868938,
+        "elapsed_sec": 18.05,
+        "throughput_mbps": 42.66,
+        "fast_path_hits": 967,
+        "c_array_overhead": 2.83,
+        "cpu_percent": 18.1,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442020.0510917,
+        "elapsed_sec": 18.32,
+        "throughput_mbps": 40.6,
+        "fast_path_hits": 975,
+        "c_array_overhead": 4.39,
+        "cpu_percent": 5.9,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442020.3157485,
+        "elapsed_sec": 18.58,
+        "throughput_mbps": 41.23,
+        "fast_path_hits": 986,
+        "c_array_overhead": 4.39,
+        "cpu_percent": 6.7,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442020.5819669,
+        "elapsed_sec": 18.85,
+        "throughput_mbps": 45.36,
+        "fast_path_hits": 995,
+        "c_array_overhead": 3.0,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442020.8458037,
+        "elapsed_sec": 19.11,
+        "throughput_mbps": 47.87,
+        "fast_path_hits": 1000,
+        "c_array_overhead": 1.9,
+        "cpu_percent": 5.5,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442021.113523,
+        "elapsed_sec": 19.38,
+        "throughput_mbps": 50.7,
+        "fast_path_hits": 1006,
+        "c_array_overhead": 3.52,
+        "cpu_percent": 2.4,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442021.3956788,
+        "elapsed_sec": 19.66,
+        "throughput_mbps": 45.26,
+        "fast_path_hits": 1021,
+        "c_array_overhead": 4.71,
+        "cpu_percent": 3.1,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442021.6797798,
+        "elapsed_sec": 19.95,
+        "throughput_mbps": 43.32,
+        "fast_path_hits": 1044,
+        "c_array_overhead": 1.31,
+        "cpu_percent": 5.6,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442021.9637985,
+        "elapsed_sec": 20.23,
+        "throughput_mbps": 48.27,
+        "fast_path_hits": 1064,
+        "c_array_overhead": 1.81,
+        "cpu_percent": 2.8,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442022.244893,
+        "elapsed_sec": 20.51,
+        "throughput_mbps": 42.5,
+        "fast_path_hits": 1072,
+        "c_array_overhead": 3.93,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442022.5144432,
+        "elapsed_sec": 20.78,
+        "throughput_mbps": 44.34,
+        "fast_path_hits": 1091,
+        "c_array_overhead": 1.36,
+        "cpu_percent": 4.7,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442022.784378,
+        "elapsed_sec": 21.05,
+        "throughput_mbps": 46.02,
+        "fast_path_hits": 1108,
+        "c_array_overhead": 3.81,
+        "cpu_percent": 7.7,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442023.053652,
+        "elapsed_sec": 21.32,
+        "throughput_mbps": 48.49,
+        "fast_path_hits": 1125,
+        "c_array_overhead": 2.27,
+        "cpu_percent": 3.1,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442023.3311825,
+        "elapsed_sec": 21.6,
+        "throughput_mbps": 49.41,
+        "fast_path_hits": 1133,
+        "c_array_overhead": 1.51,
+        "cpu_percent": 5.1,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442023.6111562,
+        "elapsed_sec": 21.88,
+        "throughput_mbps": 49.08,
+        "fast_path_hits": 1147,
+        "c_array_overhead": 1.14,
+        "cpu_percent": 3.7,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442023.8917818,
+        "elapsed_sec": 22.16,
+        "throughput_mbps": 41.79,
+        "fast_path_hits": 1169,
+        "c_array_overhead": 1.32,
+        "cpu_percent": 4.5,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442024.1628633,
+        "elapsed_sec": 22.43,
+        "throughput_mbps": 51.24,
+        "fast_path_hits": 1194,
+        "c_array_overhead": 4.11,
+        "cpu_percent": 4.7,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442024.4290166,
+        "elapsed_sec": 22.7,
+        "throughput_mbps": 49.84,
+        "fast_path_hits": 1207,
+        "c_array_overhead": 3.92,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442024.697067,
+        "elapsed_sec": 22.96,
+        "throughput_mbps": 48.57,
+        "fast_path_hits": 1215,
+        "c_array_overhead": 2.24,
+        "cpu_percent": 3.2,
+        "ram_percent": 57.9
+    },
+    {
+        "timestamp": 1793442024.9608538,
+        "elapsed_sec": 23.23,
+        "throughput_mbps": 41.53,
+        "fast_path_hits": 1239,
+        "c_array_overhead": 2.46,
+        "cpu_percent": 3.7,
+        "ram_percent": 57.8
+    },
+    {
+        "timestamp": 1793442025.2276852,
+        "elapsed_sec": 23.49,
+        "throughput_mbps": 41.46,
+        "fast_path_hits": 1249,
+        "c_array_overhead": 4.9,
+        "cpu_percent": 3.1,
+        "ram_percent": 57.9
+    },
+    {
+        "timestamp": 1793442025.4962997,
+        "elapsed_sec": 23.76,
+        "throughput_mbps": 40.53,
+        "fast_path_hits": 1273,
+        "c_array_overhead": 2.84,
+        "cpu_percent": 6.6,
+        "ram_percent": 57.9
+    },
+    {
+        "timestamp": 1793442025.761718,
+        "elapsed_sec": 24.03,
+        "throughput_mbps": 42.51,
+        "fast_path_hits": 1287,
+        "c_array_overhead": 3.43,
+        "cpu_percent": 6.3,
+        "ram_percent": 57.7
+    },
+    {
+        "timestamp": 1793442026.0268629,
+        "elapsed_sec": 24.29,
+        "throughput_mbps": 40.36,
+        "fast_path_hits": 1295,
+        "c_array_overhead": 1.77,
+        "cpu_percent": 3.6,
+        "ram_percent": 57.6
+    },
+    {
+        "timestamp": 1793442026.2914455,
+        "elapsed_sec": 24.56,
+        "throughput_mbps": 42.14,
+        "fast_path_hits": 1320,
+        "c_array_overhead": 2.77,
+        "cpu_percent": 2.3,
+        "ram_percent": 57.6
+    },
+    {
+        "timestamp": 1793442026.5610435,
+        "elapsed_sec": 24.83,
+        "throughput_mbps": 50.21,
+        "fast_path_hits": 1340,
+        "c_array_overhead": 1.79,
+        "cpu_percent": 4.6,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442026.8420303,
+        "elapsed_sec": 25.11,
+        "throughput_mbps": 43.88,
+        "fast_path_hits": 1357,
+        "c_array_overhead": 3.22,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442027.112546,
+        "elapsed_sec": 25.38,
+        "throughput_mbps": 45.76,
+        "fast_path_hits": 1378,
+        "c_array_overhead": 4.45,
+        "cpu_percent": 2.5,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442027.3914537,
+        "elapsed_sec": 25.66,
+        "throughput_mbps": 44.87,
+        "fast_path_hits": 1388,
+        "c_array_overhead": 4.81,
+        "cpu_percent": 1.8,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442027.6625779,
+        "elapsed_sec": 25.93,
+        "throughput_mbps": 47.42,
+        "fast_path_hits": 1411,
+        "c_array_overhead": 3.13,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442027.943822,
+        "elapsed_sec": 26.21,
+        "throughput_mbps": 46.83,
+        "fast_path_hits": 1425,
+        "c_array_overhead": 1.34,
+        "cpu_percent": 4.5,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442028.2118185,
+        "elapsed_sec": 26.48,
+        "throughput_mbps": 50.03,
+        "fast_path_hits": 1445,
+        "c_array_overhead": 3.97,
+        "cpu_percent": 9.7,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442028.4871821,
+        "elapsed_sec": 26.75,
+        "throughput_mbps": 46.4,
+        "fast_path_hits": 1466,
+        "c_array_overhead": 2.08,
+        "cpu_percent": 8.2,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442028.7574127,
+        "elapsed_sec": 27.02,
+        "throughput_mbps": 46.88,
+        "fast_path_hits": 1479,
+        "c_array_overhead": 1.02,
+        "cpu_percent": 4.1,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442029.0237596,
+        "elapsed_sec": 27.29,
+        "throughput_mbps": 40.96,
+        "fast_path_hits": 1495,
+        "c_array_overhead": 4.48,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442029.292626,
+        "elapsed_sec": 27.56,
+        "throughput_mbps": 51.77,
+        "fast_path_hits": 1507,
+        "c_array_overhead": 4.7,
+        "cpu_percent": 4.7,
+        "ram_percent": 56.9
+    },
+    {
+        "timestamp": 1793442029.5757737,
+        "elapsed_sec": 27.84,
+        "throughput_mbps": 48.65,
+        "fast_path_hits": 1519,
+        "c_array_overhead": 4.82,
+        "cpu_percent": 2.2,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442029.8583653,
+        "elapsed_sec": 28.12,
+        "throughput_mbps": 49.21,
+        "fast_path_hits": 1544,
+        "c_array_overhead": 4.87,
+        "cpu_percent": 3.1,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442030.1262634,
+        "elapsed_sec": 28.39,
+        "throughput_mbps": 51.03,
+        "fast_path_hits": 1567,
+        "c_array_overhead": 4.24,
+        "cpu_percent": 3.6,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442030.4057908,
+        "elapsed_sec": 28.67,
+        "throughput_mbps": 51.65,
+        "fast_path_hits": 1586,
+        "c_array_overhead": 1.88,
+        "cpu_percent": 2.5,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442030.6898015,
+        "elapsed_sec": 28.96,
+        "throughput_mbps": 42.64,
+        "fast_path_hits": 1608,
+        "c_array_overhead": 2.02,
+        "cpu_percent": 4.8,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442030.9593823,
+        "elapsed_sec": 29.23,
+        "throughput_mbps": 43.97,
+        "fast_path_hits": 1616,
+        "c_array_overhead": 2.93,
+        "cpu_percent": 4.8,
+        "ram_percent": 56.8
+    },
+    {
+        "timestamp": 1793442031.2388616,
+        "elapsed_sec": 29.51,
+        "throughput_mbps": 49.29,
+        "fast_path_hits": 1630,
+        "c_array_overhead": 1.12,
+        "cpu_percent": 3.1,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442031.51013,
+        "elapsed_sec": 29.78,
+        "throughput_mbps": 40.24,
+        "fast_path_hits": 1651,
+        "c_array_overhead": 1.8,
+        "cpu_percent": 5.5,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442031.7771854,
+        "elapsed_sec": 30.04,
+        "throughput_mbps": 48.99,
+        "fast_path_hits": 1666,
+        "c_array_overhead": 2.86,
+        "cpu_percent": 2.1,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442032.0555649,
+        "elapsed_sec": 30.32,
+        "throughput_mbps": 50.52,
+        "fast_path_hits": 1673,
+        "c_array_overhead": 3.54,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442032.325959,
+        "elapsed_sec": 30.59,
+        "throughput_mbps": 46.34,
+        "fast_path_hits": 1683,
+        "c_array_overhead": 2.5,
+        "cpu_percent": 11.1,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442032.5991557,
+        "elapsed_sec": 30.87,
+        "throughput_mbps": 51.0,
+        "fast_path_hits": 1698,
+        "c_array_overhead": 3.88,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442032.8759086,
+        "elapsed_sec": 31.14,
+        "throughput_mbps": 48.31,
+        "fast_path_hits": 1711,
+        "c_array_overhead": 1.67,
+        "cpu_percent": 8.5,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442033.158247,
+        "elapsed_sec": 31.42,
+        "throughput_mbps": 48.96,
+        "fast_path_hits": 1716,
+        "c_array_overhead": 4.21,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442033.4254613,
+        "elapsed_sec": 31.69,
+        "throughput_mbps": 48.0,
+        "fast_path_hits": 1739,
+        "c_array_overhead": 4.09,
+        "cpu_percent": 5.0,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442033.6956193,
+        "elapsed_sec": 31.96,
+        "throughput_mbps": 43.86,
+        "fast_path_hits": 1747,
+        "c_array_overhead": 3.6,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442033.973754,
+        "elapsed_sec": 32.24,
+        "throughput_mbps": 41.54,
+        "fast_path_hits": 1759,
+        "c_array_overhead": 3.88,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442034.2527752,
+        "elapsed_sec": 32.52,
+        "throughput_mbps": 42.68,
+        "fast_path_hits": 1770,
+        "c_array_overhead": 1.72,
+        "cpu_percent": 3.0,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442034.520206,
+        "elapsed_sec": 32.79,
+        "throughput_mbps": 43.0,
+        "fast_path_hits": 1780,
+        "c_array_overhead": 3.61,
+        "cpu_percent": 4.6,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442034.7904117,
+        "elapsed_sec": 33.06,
+        "throughput_mbps": 46.88,
+        "fast_path_hits": 1800,
+        "c_array_overhead": 2.68,
+        "cpu_percent": 10.9,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442035.0550752,
+        "elapsed_sec": 33.32,
+        "throughput_mbps": 45.53,
+        "fast_path_hits": 1822,
+        "c_array_overhead": 1.04,
+        "cpu_percent": 7.9,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442035.3199742,
+        "elapsed_sec": 33.59,
+        "throughput_mbps": 43.36,
+        "fast_path_hits": 1832,
+        "c_array_overhead": 1.66,
+        "cpu_percent": 5.7,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442035.5933137,
+        "elapsed_sec": 33.86,
+        "throughput_mbps": 42.97,
+        "fast_path_hits": 1838,
+        "c_array_overhead": 3.56,
+        "cpu_percent": 4.7,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442035.8619053,
+        "elapsed_sec": 34.13,
+        "throughput_mbps": 49.96,
+        "fast_path_hits": 1854,
+        "c_array_overhead": 3.66,
+        "cpu_percent": 6.1,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442036.1288478,
+        "elapsed_sec": 34.4,
+        "throughput_mbps": 44.99,
+        "fast_path_hits": 1872,
+        "c_array_overhead": 3.25,
+        "cpu_percent": 3.4,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442036.407237,
+        "elapsed_sec": 34.67,
+        "throughput_mbps": 43.59,
+        "fast_path_hits": 1883,
+        "c_array_overhead": 1.39,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442036.6709802,
+        "elapsed_sec": 34.94,
+        "throughput_mbps": 51.87,
+        "fast_path_hits": 1907,
+        "c_array_overhead": 1.75,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442036.9414868,
+        "elapsed_sec": 35.21,
+        "throughput_mbps": 48.58,
+        "fast_path_hits": 1914,
+        "c_array_overhead": 1.19,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442037.2193298,
+        "elapsed_sec": 35.49,
+        "throughput_mbps": 42.74,
+        "fast_path_hits": 1929,
+        "c_array_overhead": 1.54,
+        "cpu_percent": 6.5,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442037.4867477,
+        "elapsed_sec": 35.75,
+        "throughput_mbps": 43.94,
+        "fast_path_hits": 1939,
+        "c_array_overhead": 4.38,
+        "cpu_percent": 7.9,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442037.7557569,
+        "elapsed_sec": 36.02,
+        "throughput_mbps": 51.21,
+        "fast_path_hits": 1949,
+        "c_array_overhead": 1.86,
+        "cpu_percent": 6.1,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442038.037802,
+        "elapsed_sec": 36.3,
+        "throughput_mbps": 49.3,
+        "fast_path_hits": 1955,
+        "c_array_overhead": 3.05,
+        "cpu_percent": 4.7,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442038.3218076,
+        "elapsed_sec": 36.59,
+        "throughput_mbps": 50.93,
+        "fast_path_hits": 1974,
+        "c_array_overhead": 3.22,
+        "cpu_percent": 6.3,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442038.6037471,
+        "elapsed_sec": 36.87,
+        "throughput_mbps": 41.68,
+        "fast_path_hits": 1990,
+        "c_array_overhead": 4.68,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442038.871669,
+        "elapsed_sec": 37.14,
+        "throughput_mbps": 42.24,
+        "fast_path_hits": 1997,
+        "c_array_overhead": 2.75,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442039.1520143,
+        "elapsed_sec": 37.42,
+        "throughput_mbps": 43.11,
+        "fast_path_hits": 2020,
+        "c_array_overhead": 1.67,
+        "cpu_percent": 11.9,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442039.437493,
+        "elapsed_sec": 37.7,
+        "throughput_mbps": 42.02,
+        "fast_path_hits": 2043,
+        "c_array_overhead": 3.12,
+        "cpu_percent": 5.2,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442039.7122805,
+        "elapsed_sec": 37.98,
+        "throughput_mbps": 49.57,
+        "fast_path_hits": 2048,
+        "c_array_overhead": 3.75,
+        "cpu_percent": 4.3,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442039.9898427,
+        "elapsed_sec": 38.26,
+        "throughput_mbps": 41.45,
+        "fast_path_hits": 2060,
+        "c_array_overhead": 4.24,
+        "cpu_percent": 4.5,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442040.2632673,
+        "elapsed_sec": 38.53,
+        "throughput_mbps": 40.44,
+        "fast_path_hits": 2079,
+        "c_array_overhead": 4.81,
+        "cpu_percent": 8.4,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442040.552314,
+        "elapsed_sec": 38.82,
+        "throughput_mbps": 40.28,
+        "fast_path_hits": 2099,
+        "c_array_overhead": 3.58,
+        "cpu_percent": 6.8,
+        "ram_percent": 56.7
+    },
+    {
+        "timestamp": 1793442040.8398945,
+        "elapsed_sec": 39.11,
+        "throughput_mbps": 44.14,
+        "fast_path_hits": 2109,
+        "c_array_overhead": 2.16,
+        "cpu_percent": 18.3,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442041.1235123,
+        "elapsed_sec": 39.39,
+        "throughput_mbps": 51.63,
+        "fast_path_hits": 2122,
+        "c_array_overhead": 1.14,
+        "cpu_percent": 4.5,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442041.39126,
+        "elapsed_sec": 39.66,
+        "throughput_mbps": 47.16,
+        "fast_path_hits": 2144,
+        "c_array_overhead": 3.96,
+        "cpu_percent": 12.8,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442041.6584806,
+        "elapsed_sec": 39.92,
+        "throughput_mbps": 47.24,
+        "fast_path_hits": 2168,
+        "c_array_overhead": 3.32,
+        "cpu_percent": 8.0,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442041.9369035,
+        "elapsed_sec": 40.2,
+        "throughput_mbps": 41.28,
+        "fast_path_hits": 2188,
+        "c_array_overhead": 2.65,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.2
+    },
+    {
+        "timestamp": 1793442042.2200706,
+        "elapsed_sec": 40.49,
+        "throughput_mbps": 42.05,
+        "fast_path_hits": 2205,
+        "c_array_overhead": 3.72,
+        "cpu_percent": 2.3,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442042.486286,
+        "elapsed_sec": 40.75,
+        "throughput_mbps": 44.91,
+        "fast_path_hits": 2212,
+        "c_array_overhead": 4.32,
+        "cpu_percent": 1.9,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442042.753098,
+        "elapsed_sec": 41.02,
+        "throughput_mbps": 46.72,
+        "fast_path_hits": 2227,
+        "c_array_overhead": 4.6,
+        "cpu_percent": 5.3,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442043.0202847,
+        "elapsed_sec": 41.29,
+        "throughput_mbps": 43.9,
+        "fast_path_hits": 2245,
+        "c_array_overhead": 1.41,
+        "cpu_percent": 8.2,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442043.272313,
+        "elapsed_sec": 41.54,
+        "throughput_mbps": 46.84,
+        "fast_path_hits": 2257,
+        "c_array_overhead": 4.45,
+        "cpu_percent": 10.9,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442043.549536,
+        "elapsed_sec": 41.81,
+        "throughput_mbps": 48.35,
+        "fast_path_hits": 2270,
+        "c_array_overhead": 3.76,
+        "cpu_percent": 7.9,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442043.817482,
+        "elapsed_sec": 42.08,
+        "throughput_mbps": 48.68,
+        "fast_path_hits": 2287,
+        "c_array_overhead": 3.43,
+        "cpu_percent": 2.9,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442044.0876825,
+        "elapsed_sec": 42.35,
+        "throughput_mbps": 46.97,
+        "fast_path_hits": 2296,
+        "c_array_overhead": 2.23,
+        "cpu_percent": 2.8,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442044.3657968,
+        "elapsed_sec": 42.63,
+        "throughput_mbps": 45.15,
+        "fast_path_hits": 2308,
+        "c_array_overhead": 1.01,
+        "cpu_percent": 1.5,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442044.6359224,
+        "elapsed_sec": 42.9,
+        "throughput_mbps": 43.22,
+        "fast_path_hits": 2322,
+        "c_array_overhead": 1.72,
+        "cpu_percent": 3.5,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442044.8922515,
+        "elapsed_sec": 43.16,
+        "throughput_mbps": 48.35,
+        "fast_path_hits": 2343,
+        "c_array_overhead": 1.87,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442045.1696982,
+        "elapsed_sec": 43.44,
+        "throughput_mbps": 51.75,
+        "fast_path_hits": 2358,
+        "c_array_overhead": 1.33,
+        "cpu_percent": 3.8,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442045.4363236,
+        "elapsed_sec": 43.7,
+        "throughput_mbps": 45.24,
+        "fast_path_hits": 2368,
+        "c_array_overhead": 1.82,
+        "cpu_percent": 6.2,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442045.702619,
+        "elapsed_sec": 43.97,
+        "throughput_mbps": 42.37,
+        "fast_path_hits": 2377,
+        "c_array_overhead": 1.28,
+        "cpu_percent": 3.4,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442045.9702544,
+        "elapsed_sec": 44.24,
+        "throughput_mbps": 51.15,
+        "fast_path_hits": 2391,
+        "c_array_overhead": 2.16,
+        "cpu_percent": 12.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442046.235028,
+        "elapsed_sec": 44.5,
+        "throughput_mbps": 42.78,
+        "fast_path_hits": 2396,
+        "c_array_overhead": 3.88,
+        "cpu_percent": 15.0,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442046.5023105,
+        "elapsed_sec": 44.77,
+        "throughput_mbps": 44.27,
+        "fast_path_hits": 2408,
+        "c_array_overhead": 2.79,
+        "cpu_percent": 3.7,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442046.7677646,
+        "elapsed_sec": 45.03,
+        "throughput_mbps": 48.11,
+        "fast_path_hits": 2417,
+        "c_array_overhead": 1.24,
+        "cpu_percent": 3.0,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442047.0340145,
+        "elapsed_sec": 45.3,
+        "throughput_mbps": 40.43,
+        "fast_path_hits": 2435,
+        "c_array_overhead": 1.93,
+        "cpu_percent": 2.5,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442047.3018932,
+        "elapsed_sec": 45.57,
+        "throughput_mbps": 50.93,
+        "fast_path_hits": 2443,
+        "c_array_overhead": 4.63,
+        "cpu_percent": 6.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442047.585995,
+        "elapsed_sec": 45.85,
+        "throughput_mbps": 40.51,
+        "fast_path_hits": 2465,
+        "c_array_overhead": 4.35,
+        "cpu_percent": 5.2,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442047.868928,
+        "elapsed_sec": 46.14,
+        "throughput_mbps": 46.1,
+        "fast_path_hits": 2486,
+        "c_array_overhead": 4.27,
+        "cpu_percent": 3.6,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442048.149729,
+        "elapsed_sec": 46.42,
+        "throughput_mbps": 50.79,
+        "fast_path_hits": 2499,
+        "c_array_overhead": 1.14,
+        "cpu_percent": 2.7,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442048.433936,
+        "elapsed_sec": 46.7,
+        "throughput_mbps": 49.18,
+        "fast_path_hits": 2504,
+        "c_array_overhead": 1.43,
+        "cpu_percent": 3.3,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442048.7359586,
+        "elapsed_sec": 47.0,
+        "throughput_mbps": 46.13,
+        "fast_path_hits": 2527,
+        "c_array_overhead": 1.09,
+        "cpu_percent": 5.1,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442049.0156643,
+        "elapsed_sec": 47.28,
+        "throughput_mbps": 43.64,
+        "fast_path_hits": 2543,
+        "c_array_overhead": 1.97,
+        "cpu_percent": 4.0,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442049.2959435,
+        "elapsed_sec": 47.56,
+        "throughput_mbps": 46.61,
+        "fast_path_hits": 2552,
+        "c_array_overhead": 2.01,
+        "cpu_percent": 2.3,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442049.585578,
+        "elapsed_sec": 47.85,
+        "throughput_mbps": 50.33,
+        "fast_path_hits": 2571,
+        "c_array_overhead": 2.35,
+        "cpu_percent": 4.6,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442049.8985157,
+        "elapsed_sec": 48.16,
+        "throughput_mbps": 49.72,
+        "fast_path_hits": 2585,
+        "c_array_overhead": 4.1,
+        "cpu_percent": 5.4,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442050.166103,
+        "elapsed_sec": 48.43,
+        "throughput_mbps": 45.66,
+        "fast_path_hits": 2603,
+        "c_array_overhead": 2.69,
+        "cpu_percent": 3.7,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442050.4501166,
+        "elapsed_sec": 48.72,
+        "throughput_mbps": 41.85,
+        "fast_path_hits": 2614,
+        "c_array_overhead": 4.48,
+        "cpu_percent": 2.7,
+        "ram_percent": 55.8
+    },
+    {
+        "timestamp": 1793442050.7608128,
+        "elapsed_sec": 49.03,
+        "throughput_mbps": 47.2,
+        "fast_path_hits": 2629,
+        "c_array_overhead": 1.69,
+        "cpu_percent": 3.9,
+        "ram_percent": 55.7
+    },
+    {
+        "timestamp": 1793442051.0278323,
+        "elapsed_sec": 49.29,
+        "throughput_mbps": 47.23,
+        "fast_path_hits": 2653,
+        "c_array_overhead": 4.03,
+        "cpu_percent": 7.4,
+        "ram_percent": 55.7
+    },
+    {
+        "timestamp": 1793442051.305188,
+        "elapsed_sec": 49.57,
+        "throughput_mbps": 44.16,
+        "fast_path_hits": 2674,
+        "c_array_overhead": 3.34,
+        "cpu_percent": 15.9,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442051.5735216,
+        "elapsed_sec": 49.84,
+        "throughput_mbps": 44.92,
+        "fast_path_hits": 2686,
+        "c_array_overhead": 3.81,
+        "cpu_percent": 22.1,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442051.8490427,
+        "elapsed_sec": 50.12,
+        "throughput_mbps": 41.72,
+        "fast_path_hits": 2705,
+        "c_array_overhead": 3.69,
+        "cpu_percent": 13.6,
+        "ram_percent": 55.9
+    },
+    {
+        "timestamp": 1793442052.1161962,
+        "elapsed_sec": 50.38,
+        "throughput_mbps": 47.74,
+        "fast_path_hits": 2725,
+        "c_array_overhead": 4.03,
+        "cpu_percent": 8.0,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442052.3827827,
+        "elapsed_sec": 50.65,
+        "throughput_mbps": 48.69,
+        "fast_path_hits": 2747,
+        "c_array_overhead": 2.24,
+        "cpu_percent": 14.4,
+        "ram_percent": 56.3
+    },
+    {
+        "timestamp": 1793442052.6459851,
+        "elapsed_sec": 50.91,
+        "throughput_mbps": 49.93,
+        "fast_path_hits": 2756,
+        "c_array_overhead": 1.39,
+        "cpu_percent": 11.3,
+        "ram_percent": 56.4
+    },
+    {
+        "timestamp": 1793442052.9132156,
+        "elapsed_sec": 51.18,
+        "throughput_mbps": 40.55,
+        "fast_path_hits": 2772,
+        "c_array_overhead": 3.99,
+        "cpu_percent": 4.0,
+        "ram_percent": 56.5
+    },
+    {
+        "timestamp": 1793442053.1821294,
+        "elapsed_sec": 51.45,
+        "throughput_mbps": 47.39,
+        "fast_path_hits": 2795,
+        "c_array_overhead": 3.43,
+        "cpu_percent": 14.7,
+        "ram_percent": 56.6
+    },
+    {
+        "timestamp": 1793442053.448864,
+        "elapsed_sec": 51.72,
+        "throughput_mbps": 45.45,
+        "fast_path_hits": 2809,
+        "c_array_overhead": 2.9,
+        "cpu_percent": 11.6,
+        "ram_percent": 57.0
+    },
+    {
+        "timestamp": 1793442053.7312887,
+        "elapsed_sec": 52.0,
+        "throughput_mbps": 50.42,
+        "fast_path_hits": 2826,
+        "c_array_overhead": 4.97,
+        "cpu_percent": 10.9,
+        "ram_percent": 57.1
+    },
+    {
+        "timestamp": 1793442054.0095434,
+        "elapsed_sec": 52.28,
+        "throughput_mbps": 44.14,
+        "fast_path_hits": 2845,
+        "c_array_overhead": 3.68,
+        "cpu_percent": 4.8,
+        "ram_percent": 57.2
+    },
+    {
+        "timestamp": 1793442054.291703,
+        "elapsed_sec": 52.56,
+        "throughput_mbps": 40.82,
+        "fast_path_hits": 2853,
+        "c_array_overhead": 1.39,
+        "cpu_percent": 9.8,
+        "ram_percent": 57.2
+    },
+    {
+        "timestamp": 1793442054.557563,
+        "elapsed_sec": 52.82,
+        "throughput_mbps": 51.59,
+        "fast_path_hits": 2859,
+        "c_array_overhead": 1.36,
+        "cpu_percent": 8.4,
+        "ram_percent": 57.2
+    },
+    {
+        "timestamp": 1793442054.8275175,
+        "elapsed_sec": 53.09,
+        "throughput_mbps": 45.37,
+        "fast_path_hits": 2864,
+        "c_array_overhead": 2.94,
+        "cpu_percent": 8.2,
+        "ram_percent": 57.3
+    },
+    {
+        "timestamp": 1793442055.1140127,
+        "elapsed_sec": 53.38,
+        "throughput_mbps": 51.4,
+        "fast_path_hits": 2889,
+        "c_array_overhead": 3.24,
+        "cpu_percent": 3.4,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442055.4138596,
+        "elapsed_sec": 53.68,
+        "throughput_mbps": 50.94,
+        "fast_path_hits": 2897,
+        "c_array_overhead": 1.13,
+        "cpu_percent": 3.6,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442055.6977031,
+        "elapsed_sec": 53.96,
+        "throughput_mbps": 45.39,
+        "fast_path_hits": 2917,
+        "c_array_overhead": 4.71,
+        "cpu_percent": 5.5,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442055.981869,
+        "elapsed_sec": 54.25,
+        "throughput_mbps": 46.24,
+        "fast_path_hits": 2940,
+        "c_array_overhead": 2.77,
+        "cpu_percent": 7.2,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442056.2649426,
+        "elapsed_sec": 54.53,
+        "throughput_mbps": 49.71,
+        "fast_path_hits": 2962,
+        "c_array_overhead": 4.96,
+        "cpu_percent": 5.1,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442056.5475628,
+        "elapsed_sec": 54.81,
+        "throughput_mbps": 48.72,
+        "fast_path_hits": 2982,
+        "c_array_overhead": 4.82,
+        "cpu_percent": 3.0,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442056.8304799,
+        "elapsed_sec": 55.1,
+        "throughput_mbps": 44.21,
+        "fast_path_hits": 2988,
+        "c_array_overhead": 3.68,
+        "cpu_percent": 3.6,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442057.1260152,
+        "elapsed_sec": 55.39,
+        "throughput_mbps": 47.08,
+        "fast_path_hits": 2998,
+        "c_array_overhead": 2.4,
+        "cpu_percent": 2.9,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442057.378426,
+        "elapsed_sec": 55.64,
+        "throughput_mbps": 44.95,
+        "fast_path_hits": 3019,
+        "c_array_overhead": 1.53,
+        "cpu_percent": 1.6,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442057.6603343,
+        "elapsed_sec": 55.93,
+        "throughput_mbps": 41.16,
+        "fast_path_hits": 3030,
+        "c_array_overhead": 1.9,
+        "cpu_percent": 1.8,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442057.932988,
+        "elapsed_sec": 56.2,
+        "throughput_mbps": 42.98,
+        "fast_path_hits": 3046,
+        "c_array_overhead": 4.07,
+        "cpu_percent": 3.4,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442058.2120812,
+        "elapsed_sec": 56.48,
+        "throughput_mbps": 49.24,
+        "fast_path_hits": 3055,
+        "c_array_overhead": 2.8,
+        "cpu_percent": 3.4,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442058.4875379,
+        "elapsed_sec": 56.75,
+        "throughput_mbps": 48.33,
+        "fast_path_hits": 3064,
+        "c_array_overhead": 2.68,
+        "cpu_percent": 4.9,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442058.7579043,
+        "elapsed_sec": 57.02,
+        "throughput_mbps": 42.57,
+        "fast_path_hits": 3076,
+        "c_array_overhead": 3.45,
+        "cpu_percent": 4.6,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442059.0297246,
+        "elapsed_sec": 57.3,
+        "throughput_mbps": 49.8,
+        "fast_path_hits": 3100,
+        "c_array_overhead": 1.04,
+        "cpu_percent": 2.9,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442059.3086283,
+        "elapsed_sec": 57.57,
+        "throughput_mbps": 46.79,
+        "fast_path_hits": 3122,
+        "c_array_overhead": 2.51,
+        "cpu_percent": 4.8,
+        "ram_percent": 57.5
+    },
+    {
+        "timestamp": 1793442059.5959697,
+        "elapsed_sec": 57.86,
+        "throughput_mbps": 47.6,
+        "fast_path_hits": 3127,
+        "c_array_overhead": 1.78,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442059.89349,
+        "elapsed_sec": 58.16,
+        "throughput_mbps": 46.94,
+        "fast_path_hits": 3144,
+        "c_array_overhead": 3.35,
+        "cpu_percent": 3.8,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442060.1790185,
+        "elapsed_sec": 58.45,
+        "throughput_mbps": 49.42,
+        "fast_path_hits": 3149,
+        "c_array_overhead": 4.55,
+        "cpu_percent": 4.8,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442060.4758313,
+        "elapsed_sec": 58.74,
+        "throughput_mbps": 47.88,
+        "fast_path_hits": 3154,
+        "c_array_overhead": 1.26,
+        "cpu_percent": 5.2,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442060.74552,
+        "elapsed_sec": 59.01,
+        "throughput_mbps": 51.38,
+        "fast_path_hits": 3173,
+        "c_array_overhead": 1.63,
+        "cpu_percent": 7.0,
+        "ram_percent": 57.3
+    },
+    {
+        "timestamp": 1793442061.0431318,
+        "elapsed_sec": 59.31,
+        "throughput_mbps": 41.35,
+        "fast_path_hits": 3194,
+        "c_array_overhead": 2.33,
+        "cpu_percent": 4.0,
+        "ram_percent": 57.3
+    },
+    {
+        "timestamp": 1793442061.312935,
+        "elapsed_sec": 59.58,
+        "throughput_mbps": 46.33,
+        "fast_path_hits": 3199,
+        "c_array_overhead": 2.12,
+        "cpu_percent": 4.3,
+        "ram_percent": 57.3
+    },
+    {
+        "timestamp": 1793442061.5812109,
+        "elapsed_sec": 59.85,
+        "throughput_mbps": 41.41,
+        "fast_path_hits": 3205,
+        "c_array_overhead": 3.82,
+        "cpu_percent": 3.3,
+        "ram_percent": 57.3
+    },
+    {
+        "timestamp": 1793442061.858009,
+        "elapsed_sec": 60.12,
+        "throughput_mbps": 42.42,
+        "fast_path_hits": 3224,
+        "c_array_overhead": 2.0,
+        "cpu_percent": 3.8,
+        "ram_percent": 57.4
+    },
+    {
+        "timestamp": 1793442062.1249413,
+        "elapsed_sec": 60.39,
+        "throughput_mbps": 48.39,
+        "fast_path_hits": 3233,
+        "c_array_overhead": 4.44,
+        "cpu_percent": 17.1,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442062.3937237,
+        "elapsed_sec": 60.66,
+        "throughput_mbps": 48.89,
+        "fast_path_hits": 3255,
+        "c_array_overhead": 4.11,
+        "cpu_percent": 3.2,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442062.6743221,
+        "elapsed_sec": 60.94,
+        "throughput_mbps": 50.44,
+        "fast_path_hits": 3278,
+        "c_array_overhead": 3.48,
+        "cpu_percent": 1.3,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442062.9565434,
+        "elapsed_sec": 61.22,
+        "throughput_mbps": 50.93,
+        "fast_path_hits": 3300,
+        "c_array_overhead": 1.69,
+        "cpu_percent": 9.7,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442063.22727,
+        "elapsed_sec": 61.49,
+        "throughput_mbps": 45.14,
+        "fast_path_hits": 3314,
+        "c_array_overhead": 3.18,
+        "cpu_percent": 1.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442063.50707,
+        "elapsed_sec": 61.77,
+        "throughput_mbps": 43.86,
+        "fast_path_hits": 3338,
+        "c_array_overhead": 2.55,
+        "cpu_percent": 4.0,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442063.773955,
+        "elapsed_sec": 62.04,
+        "throughput_mbps": 51.67,
+        "fast_path_hits": 3345,
+        "c_array_overhead": 2.42,
+        "cpu_percent": 2.6,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442064.0356486,
+        "elapsed_sec": 62.3,
+        "throughput_mbps": 47.26,
+        "fast_path_hits": 3356,
+        "c_array_overhead": 4.18,
+        "cpu_percent": 4.8,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442064.3107781,
+        "elapsed_sec": 62.58,
+        "throughput_mbps": 42.01,
+        "fast_path_hits": 3375,
+        "c_array_overhead": 2.22,
+        "cpu_percent": 7.6,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442064.593767,
+        "elapsed_sec": 62.86,
+        "throughput_mbps": 47.05,
+        "fast_path_hits": 3394,
+        "c_array_overhead": 1.48,
+        "cpu_percent": 6.3,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442064.8916566,
+        "elapsed_sec": 63.16,
+        "throughput_mbps": 40.76,
+        "fast_path_hits": 3400,
+        "c_array_overhead": 4.86,
+        "cpu_percent": 5.1,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442065.1608143,
+        "elapsed_sec": 63.43,
+        "throughput_mbps": 42.48,
+        "fast_path_hits": 3422,
+        "c_array_overhead": 4.38,
+        "cpu_percent": 2.8,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442065.4248252,
+        "elapsed_sec": 63.69,
+        "throughput_mbps": 50.33,
+        "fast_path_hits": 3433,
+        "c_array_overhead": 4.15,
+        "cpu_percent": 6.8,
+        "ram_percent": 56.1
+    },
+    {
+        "timestamp": 1793442065.7059355,
+        "elapsed_sec": 63.97,
+        "throughput_mbps": 49.02,
+        "fast_path_hits": 3441,
+        "c_array_overhead": 2.54,
+        "cpu_percent": 4.9,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442065.9773197,
+        "elapsed_sec": 64.24,
+        "throughput_mbps": 42.06,
+        "fast_path_hits": 3459,
+        "c_array_overhead": 4.52,
+        "cpu_percent": 3.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442066.2443736,
+        "elapsed_sec": 64.51,
+        "throughput_mbps": 43.84,
+        "fast_path_hits": 3465,
+        "c_array_overhead": 3.21,
+        "cpu_percent": 5.4,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442066.5211031,
+        "elapsed_sec": 64.79,
+        "throughput_mbps": 48.33,
+        "fast_path_hits": 3477,
+        "c_array_overhead": 3.74,
+        "cpu_percent": 1.8,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442066.7926784,
+        "elapsed_sec": 65.06,
+        "throughput_mbps": 43.81,
+        "fast_path_hits": 3487,
+        "c_array_overhead": 2.3,
+        "cpu_percent": 4.4,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442067.0741084,
+        "elapsed_sec": 65.34,
+        "throughput_mbps": 47.33,
+        "fast_path_hits": 3499,
+        "c_array_overhead": 1.37,
+        "cpu_percent": 4.2,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442067.3414416,
+        "elapsed_sec": 65.61,
+        "throughput_mbps": 42.74,
+        "fast_path_hits": 3517,
+        "c_array_overhead": 3.4,
+        "cpu_percent": 1.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442067.623968,
+        "elapsed_sec": 65.89,
+        "throughput_mbps": 40.51,
+        "fast_path_hits": 3528,
+        "c_array_overhead": 1.49,
+        "cpu_percent": 1.1,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442067.891095,
+        "elapsed_sec": 66.16,
+        "throughput_mbps": 45.35,
+        "fast_path_hits": 3545,
+        "c_array_overhead": 2.54,
+        "cpu_percent": 1.3,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442068.1743507,
+        "elapsed_sec": 66.44,
+        "throughput_mbps": 41.6,
+        "fast_path_hits": 3552,
+        "c_array_overhead": 2.17,
+        "cpu_percent": 5.6,
+        "ram_percent": 56.0
+    },
+    {
+        "timestamp": 1793442068.441445,
+        "elapsed_sec": 66.71,
+        "throughput_mbps": 47.21,
+        "fast_path_hits": 3575,
+        "c_array_overhead": 3.2,
+        "cpu_percent": 5.2,
+        "ram_percent": 55.6
+    },
+    {
+        "timestamp": 1793442068.707643,
+        "elapsed_sec": 66.97,
+        "throughput_mbps": 50.41,
+        "fast_path_hits": 3588,
+        "c_array_overhead": 1.24,
+        "cpu_percent": 6.5,
+        "ram_percent": 55.6
+    },
+    {
+        "timestamp": 1793442068.974692,
+        "elapsed_sec": 67.24,
+        "throughput_mbps": 51.13,
+        "fast_path_hits": 3609,
+        "c_array_overhead": 4.12,
+        "cpu_percent": 10.2,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442069.2291071,
+        "elapsed_sec": 67.49,
+        "throughput_mbps": 41.73,
+        "fast_path_hits": 3622,
+        "c_array_overhead": 1.74,
+        "cpu_percent": 4.2,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442069.5050423,
+        "elapsed_sec": 67.77,
+        "throughput_mbps": 45.74,
+        "fast_path_hits": 3638,
+        "c_array_overhead": 4.66,
+        "cpu_percent": 3.8,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442069.7751734,
+        "elapsed_sec": 68.04,
+        "throughput_mbps": 42.67,
+        "fast_path_hits": 3645,
+        "c_array_overhead": 2.89,
+        "cpu_percent": 2.3,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442070.0574672,
+        "elapsed_sec": 68.32,
+        "throughput_mbps": 46.06,
+        "fast_path_hits": 3668,
+        "c_array_overhead": 2.1,
+        "cpu_percent": 3.2,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442070.3302386,
+        "elapsed_sec": 68.6,
+        "throughput_mbps": 45.21,
+        "fast_path_hits": 3681,
+        "c_array_overhead": 3.54,
+        "cpu_percent": 2.4,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442070.6019385,
+        "elapsed_sec": 68.87,
+        "throughput_mbps": 49.24,
+        "fast_path_hits": 3704,
+        "c_array_overhead": 3.36,
+        "cpu_percent": 3.2,
+        "ram_percent": 55.5
+    },
+    {
+        "timestamp": 1793442070.8721273,
+        "elapsed_sec": 69.14,
+        "throughput_mbps": 40.85,
+        "fast_path_hits": 3711,
+        "c_array_overhead": 3.56,
+        "cpu_percent": 5.2,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442071.1431897,
+        "elapsed_sec": 69.41,
+        "throughput_mbps": 42.11,
+        "fast_path_hits": 3730,
+        "c_array_overhead": 4.87,
+        "cpu_percent": 6.5,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442071.409006,
+        "elapsed_sec": 69.67,
+        "throughput_mbps": 50.25,
+        "fast_path_hits": 3739,
+        "c_array_overhead": 1.42,
+        "cpu_percent": 2.0,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442071.6863303,
+        "elapsed_sec": 69.95,
+        "throughput_mbps": 43.36,
+        "fast_path_hits": 3750,
+        "c_array_overhead": 2.58,
+        "cpu_percent": 5.1,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442071.957408,
+        "elapsed_sec": 70.22,
+        "throughput_mbps": 42.18,
+        "fast_path_hits": 3756,
+        "c_array_overhead": 3.62,
+        "cpu_percent": 3.1,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442072.238853,
+        "elapsed_sec": 70.51,
+        "throughput_mbps": 49.21,
+        "fast_path_hits": 3766,
+        "c_array_overhead": 3.29,
+        "cpu_percent": 3.6,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442072.5202913,
+        "elapsed_sec": 70.79,
+        "throughput_mbps": 51.62,
+        "fast_path_hits": 3777,
+        "c_array_overhead": 1.25,
+        "cpu_percent": 2.4,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442072.7828467,
+        "elapsed_sec": 71.05,
+        "throughput_mbps": 40.44,
+        "fast_path_hits": 3797,
+        "c_array_overhead": 2.3,
+        "cpu_percent": 3.0,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442073.0601707,
+        "elapsed_sec": 71.33,
+        "throughput_mbps": 48.55,
+        "fast_path_hits": 3817,
+        "c_array_overhead": 1.31,
+        "cpu_percent": 13.3,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442073.335822,
+        "elapsed_sec": 71.6,
+        "throughput_mbps": 44.71,
+        "fast_path_hits": 3838,
+        "c_array_overhead": 1.05,
+        "cpu_percent": 3.5,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442073.6134086,
+        "elapsed_sec": 71.88,
+        "throughput_mbps": 45.93,
+        "fast_path_hits": 3844,
+        "c_array_overhead": 3.63,
+        "cpu_percent": 3.2,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442073.8879118,
+        "elapsed_sec": 72.15,
+        "throughput_mbps": 51.38,
+        "fast_path_hits": 3864,
+        "c_array_overhead": 2.66,
+        "cpu_percent": 4.7,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442074.1556413,
+        "elapsed_sec": 72.42,
+        "throughput_mbps": 45.08,
+        "fast_path_hits": 3879,
+        "c_array_overhead": 4.23,
+        "cpu_percent": 4.4,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442074.4230146,
+        "elapsed_sec": 72.69,
+        "throughput_mbps": 42.52,
+        "fast_path_hits": 3894,
+        "c_array_overhead": 1.41,
+        "cpu_percent": 8.0,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442074.7039313,
+        "elapsed_sec": 72.97,
+        "throughput_mbps": 45.11,
+        "fast_path_hits": 3899,
+        "c_array_overhead": 4.35,
+        "cpu_percent": 1.8,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442074.9719732,
+        "elapsed_sec": 73.24,
+        "throughput_mbps": 41.1,
+        "fast_path_hits": 3909,
+        "c_array_overhead": 4.18,
+        "cpu_percent": 4.2,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442075.2510133,
+        "elapsed_sec": 73.52,
+        "throughput_mbps": 48.09,
+        "fast_path_hits": 3916,
+        "c_array_overhead": 1.22,
+        "cpu_percent": 5.9,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442075.5202715,
+        "elapsed_sec": 73.79,
+        "throughput_mbps": 40.73,
+        "fast_path_hits": 3933,
+        "c_array_overhead": 3.06,
+        "cpu_percent": 4.4,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442075.7863266,
+        "elapsed_sec": 74.05,
+        "throughput_mbps": 43.87,
+        "fast_path_hits": 3950,
+        "c_array_overhead": 2.89,
+        "cpu_percent": 12.8,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442076.0528667,
+        "elapsed_sec": 74.32,
+        "throughput_mbps": 51.45,
+        "fast_path_hits": 3970,
+        "c_array_overhead": 2.6,
+        "cpu_percent": 15.9,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442076.3195908,
+        "elapsed_sec": 74.59,
+        "throughput_mbps": 46.82,
+        "fast_path_hits": 3990,
+        "c_array_overhead": 1.62,
+        "cpu_percent": 17.9,
+        "ram_percent": 53.7
+    },
+    {
+        "timestamp": 1793442076.5726001,
+        "elapsed_sec": 74.84,
+        "throughput_mbps": 41.96,
+        "fast_path_hits": 4010,
+        "c_array_overhead": 1.35,
+        "cpu_percent": 6.7,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442076.832694,
+        "elapsed_sec": 75.1,
+        "throughput_mbps": 47.88,
+        "fast_path_hits": 4023,
+        "c_array_overhead": 1.48,
+        "cpu_percent": 13.1,
+        "ram_percent": 54.0
+    },
+    {
+        "timestamp": 1793442077.1002705,
+        "elapsed_sec": 75.37,
+        "throughput_mbps": 50.95,
+        "fast_path_hits": 4044,
+        "c_array_overhead": 1.96,
+        "cpu_percent": 13.1,
+        "ram_percent": 54.2
+    },
+    {
+        "timestamp": 1793442077.3620636,
+        "elapsed_sec": 75.63,
+        "throughput_mbps": 47.56,
+        "fast_path_hits": 4056,
+        "c_array_overhead": 4.16,
+        "cpu_percent": 5.6,
+        "ram_percent": 54.4
+    },
+    {
+        "timestamp": 1793442077.6284542,
+        "elapsed_sec": 75.89,
+        "throughput_mbps": 50.02,
+        "fast_path_hits": 4066,
+        "c_array_overhead": 1.78,
+        "cpu_percent": 3.3,
+        "ram_percent": 54.4
+    },
+    {
+        "timestamp": 1793442077.8988574,
+        "elapsed_sec": 76.17,
+        "throughput_mbps": 41.1,
+        "fast_path_hits": 4072,
+        "c_array_overhead": 4.41,
+        "cpu_percent": 9.6,
+        "ram_percent": 54.6
+    },
+    {
+        "timestamp": 1793442078.1655288,
+        "elapsed_sec": 76.43,
+        "throughput_mbps": 45.15,
+        "fast_path_hits": 4092,
+        "c_array_overhead": 2.64,
+        "cpu_percent": 12.7,
+        "ram_percent": 54.8
+    },
+    {
+        "timestamp": 1793442078.4315927,
+        "elapsed_sec": 76.7,
+        "throughput_mbps": 43.91,
+        "fast_path_hits": 4115,
+        "c_array_overhead": 2.66,
+        "cpu_percent": 10.7,
+        "ram_percent": 55.0
+    },
+    {
+        "timestamp": 1793442078.6932817,
+        "elapsed_sec": 76.96,
+        "throughput_mbps": 50.43,
+        "fast_path_hits": 4140,
+        "c_array_overhead": 4.99,
+        "cpu_percent": 5.2,
+        "ram_percent": 55.0
+    },
+    {
+        "timestamp": 1793442078.9697096,
+        "elapsed_sec": 77.24,
+        "throughput_mbps": 47.91,
+        "fast_path_hits": 4150,
+        "c_array_overhead": 4.27,
+        "cpu_percent": 5.6,
+        "ram_percent": 55.0
+    },
+    {
+        "timestamp": 1793442079.2406578,
+        "elapsed_sec": 77.51,
+        "throughput_mbps": 49.85,
+        "fast_path_hits": 4170,
+        "c_array_overhead": 3.04,
+        "cpu_percent": 5.2,
+        "ram_percent": 55.1
+    },
+    {
+        "timestamp": 1793442079.5032618,
+        "elapsed_sec": 77.77,
+        "throughput_mbps": 50.34,
+        "fast_path_hits": 4193,
+        "c_array_overhead": 3.3,
+        "cpu_percent": 6.6,
+        "ram_percent": 55.1
+    },
+    {
+        "timestamp": 1793442079.7557151,
+        "elapsed_sec": 78.02,
+        "throughput_mbps": 41.59,
+        "fast_path_hits": 4207,
+        "c_array_overhead": 4.04,
+        "cpu_percent": 6.2,
+        "ram_percent": 55.1
+    },
+    {
+        "timestamp": 1793442080.0376172,
+        "elapsed_sec": 78.3,
+        "throughput_mbps": 48.16,
+        "fast_path_hits": 4222,
+        "c_array_overhead": 1.7,
+        "cpu_percent": 8.4,
+        "ram_percent": 55.0
+    },
+    {
+        "timestamp": 1793442080.3030393,
+        "elapsed_sec": 78.57,
+        "throughput_mbps": 50.59,
+        "fast_path_hits": 4230,
+        "c_array_overhead": 2.35,
+        "cpu_percent": 2.4,
+        "ram_percent": 55.0
+    },
+    {
+        "timestamp": 1793442080.5774784,
+        "elapsed_sec": 78.84,
+        "throughput_mbps": 40.36,
+        "fast_path_hits": 4242,
+        "c_array_overhead": 1.52,
+        "cpu_percent": 4.6,
+        "ram_percent": 55.1
+    },
+    {
+        "timestamp": 1793442080.8487132,
+        "elapsed_sec": 79.11,
+        "throughput_mbps": 43.78,
+        "fast_path_hits": 4262,
+        "c_array_overhead": 2.47,
+        "cpu_percent": 12.5,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442081.1191673,
+        "elapsed_sec": 79.39,
+        "throughput_mbps": 42.12,
+        "fast_path_hits": 4269,
+        "c_array_overhead": 2.81,
+        "cpu_percent": 7.2,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442081.3968928,
+        "elapsed_sec": 79.66,
+        "throughput_mbps": 47.23,
+        "fast_path_hits": 4282,
+        "c_array_overhead": 3.34,
+        "cpu_percent": 0.7,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442081.6664853,
+        "elapsed_sec": 79.93,
+        "throughput_mbps": 50.51,
+        "fast_path_hits": 4301,
+        "c_array_overhead": 3.13,
+        "cpu_percent": 2.8,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442081.93139,
+        "elapsed_sec": 80.2,
+        "throughput_mbps": 42.32,
+        "fast_path_hits": 4322,
+        "c_array_overhead": 3.93,
+        "cpu_percent": 1.5,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442082.1990583,
+        "elapsed_sec": 80.47,
+        "throughput_mbps": 49.65,
+        "fast_path_hits": 4329,
+        "c_array_overhead": 1.74,
+        "cpu_percent": 2.2,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442082.4685857,
+        "elapsed_sec": 80.73,
+        "throughput_mbps": 40.41,
+        "fast_path_hits": 4338,
+        "c_array_overhead": 2.93,
+        "cpu_percent": 2.7,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442082.7492871,
+        "elapsed_sec": 81.02,
+        "throughput_mbps": 41.47,
+        "fast_path_hits": 4358,
+        "c_array_overhead": 4.75,
+        "cpu_percent": 1.3,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442083.0155435,
+        "elapsed_sec": 81.28,
+        "throughput_mbps": 50.24,
+        "fast_path_hits": 4367,
+        "c_array_overhead": 1.98,
+        "cpu_percent": 2.2,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442083.2975411,
+        "elapsed_sec": 81.56,
+        "throughput_mbps": 42.8,
+        "fast_path_hits": 4377,
+        "c_array_overhead": 4.27,
+        "cpu_percent": 1.1,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442083.5645137,
+        "elapsed_sec": 81.83,
+        "throughput_mbps": 41.75,
+        "fast_path_hits": 4382,
+        "c_array_overhead": 4.81,
+        "cpu_percent": 1.1,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442083.8319542,
+        "elapsed_sec": 82.1,
+        "throughput_mbps": 50.56,
+        "fast_path_hits": 4387,
+        "c_array_overhead": 4.23,
+        "cpu_percent": 2.5,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442084.098783,
+        "elapsed_sec": 82.37,
+        "throughput_mbps": 50.64,
+        "fast_path_hits": 4411,
+        "c_array_overhead": 3.08,
+        "cpu_percent": 1.9,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442084.3656015,
+        "elapsed_sec": 82.63,
+        "throughput_mbps": 41.82,
+        "fast_path_hits": 4425,
+        "c_array_overhead": 2.4,
+        "cpu_percent": 1.5,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442084.6314728,
+        "elapsed_sec": 82.9,
+        "throughput_mbps": 50.25,
+        "fast_path_hits": 4432,
+        "c_array_overhead": 2.82,
+        "cpu_percent": 2.8,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442084.8976223,
+        "elapsed_sec": 83.16,
+        "throughput_mbps": 49.52,
+        "fast_path_hits": 4443,
+        "c_array_overhead": 2.96,
+        "cpu_percent": 5.5,
+        "ram_percent": 53.9
+    },
+    {
+        "timestamp": 1793442085.1642344,
+        "elapsed_sec": 83.43,
+        "throughput_mbps": 47.55,
+        "fast_path_hits": 4462,
+        "c_array_overhead": 1.5,
+        "cpu_percent": 12.6,
+        "ram_percent": 54.2
+    },
+    {
+        "timestamp": 1793442085.4331512,
+        "elapsed_sec": 83.7,
+        "throughput_mbps": 43.69,
+        "fast_path_hits": 4476,
+        "c_array_overhead": 2.4,
+        "cpu_percent": 3.4,
+        "ram_percent": 54.3
+    },
+    {
+        "timestamp": 1793442085.6994689,
+        "elapsed_sec": 83.97,
+        "throughput_mbps": 44.36,
+        "fast_path_hits": 4491,
+        "c_array_overhead": 1.49,
+        "cpu_percent": 1.5,
+        "ram_percent": 54.3
+    },
+    {
+        "timestamp": 1793442085.9656804,
+        "elapsed_sec": 84.23,
+        "throughput_mbps": 49.57,
+        "fast_path_hits": 4505,
+        "c_array_overhead": 4.7,
+        "cpu_percent": 1.5,
+        "ram_percent": 54.3
+    },
+    {
+        "timestamp": 1793442086.248895,
+        "elapsed_sec": 84.52,
+        "throughput_mbps": 40.66,
+        "fast_path_hits": 4523,
+        "c_array_overhead": 1.7,
+        "cpu_percent": 1.7,
+        "ram_percent": 54.3
+    },
+    {
+        "timestamp": 1793442086.5149386,
+        "elapsed_sec": 84.78,
+        "throughput_mbps": 40.42,
+        "fast_path_hits": 4545,
+        "c_array_overhead": 4.12,
+        "cpu_percent": 10.3,
+        "ram_percent": 53.8
+    },
+    {
+        "timestamp": 1793442086.798974,
+        "elapsed_sec": 85.07,
+        "throughput_mbps": 46.64,
+        "fast_path_hits": 4556,
+        "c_array_overhead": 3.74,
+        "cpu_percent": 2.5,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442087.0816014,
+        "elapsed_sec": 85.35,
+        "throughput_mbps": 47.98,
+        "fast_path_hits": 4565,
+        "c_array_overhead": 3.06,
+        "cpu_percent": 1.9,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442087.3489158,
+        "elapsed_sec": 85.62,
+        "throughput_mbps": 50.26,
+        "fast_path_hits": 4589,
+        "c_array_overhead": 2.51,
+        "cpu_percent": 1.9,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442087.6005058,
+        "elapsed_sec": 85.87,
+        "throughput_mbps": 42.89,
+        "fast_path_hits": 4598,
+        "c_array_overhead": 4.78,
+        "cpu_percent": 1.9,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442087.8798366,
+        "elapsed_sec": 86.15,
+        "throughput_mbps": 43.87,
+        "fast_path_hits": 4621,
+        "c_array_overhead": 2.7,
+        "cpu_percent": 1.4,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442088.1606493,
+        "elapsed_sec": 86.43,
+        "throughput_mbps": 46.1,
+        "fast_path_hits": 4637,
+        "c_array_overhead": 1.59,
+        "cpu_percent": 2.8,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442088.4414506,
+        "elapsed_sec": 86.71,
+        "throughput_mbps": 46.51,
+        "fast_path_hits": 4653,
+        "c_array_overhead": 1.32,
+        "cpu_percent": 1.0,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442088.7075036,
+        "elapsed_sec": 86.97,
+        "throughput_mbps": 46.21,
+        "fast_path_hits": 4664,
+        "c_array_overhead": 1.88,
+        "cpu_percent": 1.9,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442088.9766579,
+        "elapsed_sec": 87.24,
+        "throughput_mbps": 41.36,
+        "fast_path_hits": 4673,
+        "c_array_overhead": 1.61,
+        "cpu_percent": 1.5,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442089.2423246,
+        "elapsed_sec": 87.51,
+        "throughput_mbps": 42.18,
+        "fast_path_hits": 4688,
+        "c_array_overhead": 1.45,
+        "cpu_percent": 3.1,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442089.5080774,
+        "elapsed_sec": 87.77,
+        "throughput_mbps": 46.39,
+        "fast_path_hits": 4713,
+        "c_array_overhead": 3.1,
+        "cpu_percent": 1.3,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442089.781504,
+        "elapsed_sec": 88.05,
+        "throughput_mbps": 45.39,
+        "fast_path_hits": 4731,
+        "c_array_overhead": 1.8,
+        "cpu_percent": 0.8,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442090.0463877,
+        "elapsed_sec": 88.31,
+        "throughput_mbps": 48.49,
+        "fast_path_hits": 4741,
+        "c_array_overhead": 3.9,
+        "cpu_percent": 2.9,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442090.320711,
+        "elapsed_sec": 88.59,
+        "throughput_mbps": 46.27,
+        "fast_path_hits": 4757,
+        "c_array_overhead": 2.07,
+        "cpu_percent": 1.7,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442090.5899065,
+        "elapsed_sec": 88.86,
+        "throughput_mbps": 47.03,
+        "fast_path_hits": 4764,
+        "c_array_overhead": 4.42,
+        "cpu_percent": 1.6,
+        "ram_percent": 52.9
+    },
+    {
+        "timestamp": 1793442090.8559642,
+        "elapsed_sec": 89.12,
+        "throughput_mbps": 50.96,
+        "fast_path_hits": 4779,
+        "c_array_overhead": 2.17,
+        "cpu_percent": 2.4,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442091.1066492,
+        "elapsed_sec": 89.37,
+        "throughput_mbps": 44.13,
+        "fast_path_hits": 4804,
+        "c_array_overhead": 2.17,
+        "cpu_percent": 1.2,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442091.378357,
+        "elapsed_sec": 89.64,
+        "throughput_mbps": 49.96,
+        "fast_path_hits": 4818,
+        "c_array_overhead": 4.25,
+        "cpu_percent": 2.1,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442091.6593263,
+        "elapsed_sec": 89.93,
+        "throughput_mbps": 49.94,
+        "fast_path_hits": 4839,
+        "c_array_overhead": 4.37,
+        "cpu_percent": 7.8,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442091.9485247,
+        "elapsed_sec": 90.21,
+        "throughput_mbps": 47.59,
+        "fast_path_hits": 4859,
+        "c_array_overhead": 2.33,
+        "cpu_percent": 6.7,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442092.230317,
+        "elapsed_sec": 90.5,
+        "throughput_mbps": 43.91,
+        "fast_path_hits": 4866,
+        "c_array_overhead": 1.38,
+        "cpu_percent": 11.0,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442092.4969494,
+        "elapsed_sec": 90.76,
+        "throughput_mbps": 51.6,
+        "fast_path_hits": 4881,
+        "c_array_overhead": 1.64,
+        "cpu_percent": 15.7,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442092.7586153,
+        "elapsed_sec": 91.02,
+        "throughput_mbps": 42.85,
+        "fast_path_hits": 4887,
+        "c_array_overhead": 2.29,
+        "cpu_percent": 8.6,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442093.0127697,
+        "elapsed_sec": 91.28,
+        "throughput_mbps": 41.82,
+        "fast_path_hits": 4898,
+        "c_array_overhead": 1.29,
+        "cpu_percent": 18.7,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442093.2829194,
+        "elapsed_sec": 91.55,
+        "throughput_mbps": 41.11,
+        "fast_path_hits": 4907,
+        "c_array_overhead": 1.18,
+        "cpu_percent": 10.3,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442093.549801,
+        "elapsed_sec": 91.81,
+        "throughput_mbps": 42.54,
+        "fast_path_hits": 4914,
+        "c_array_overhead": 3.26,
+        "cpu_percent": 5.6,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442093.8305378,
+        "elapsed_sec": 92.1,
+        "throughput_mbps": 49.6,
+        "fast_path_hits": 4932,
+        "c_array_overhead": 1.82,
+        "cpu_percent": 5.7,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442094.0994937,
+        "elapsed_sec": 92.36,
+        "throughput_mbps": 40.1,
+        "fast_path_hits": 4955,
+        "c_array_overhead": 1.0,
+        "cpu_percent": 6.6,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442094.3676996,
+        "elapsed_sec": 92.63,
+        "throughput_mbps": 50.63,
+        "fast_path_hits": 4972,
+        "c_array_overhead": 3.13,
+        "cpu_percent": 15.1,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442094.6467097,
+        "elapsed_sec": 92.91,
+        "throughput_mbps": 41.81,
+        "fast_path_hits": 4988,
+        "c_array_overhead": 2.85,
+        "cpu_percent": 5.1,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442094.9146814,
+        "elapsed_sec": 93.18,
+        "throughput_mbps": 43.24,
+        "fast_path_hits": 5005,
+        "c_array_overhead": 1.81,
+        "cpu_percent": 11.3,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442095.1813707,
+        "elapsed_sec": 93.45,
+        "throughput_mbps": 41.19,
+        "fast_path_hits": 5015,
+        "c_array_overhead": 3.74,
+        "cpu_percent": 4.9,
+        "ram_percent": 53.0
+    },
+    {
+        "timestamp": 1793442095.4648283,
+        "elapsed_sec": 93.73,
+        "throughput_mbps": 44.91,
+        "fast_path_hits": 5025,
+        "c_array_overhead": 3.88,
+        "cpu_percent": 14.6,
+        "ram_percent": 53.3
+    },
+    {
+        "timestamp": 1793442095.739292,
+        "elapsed_sec": 94.01,
+        "throughput_mbps": 51.07,
+        "fast_path_hits": 5048,
+        "c_array_overhead": 3.93,
+        "cpu_percent": 22.1,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442096.012596,
+        "elapsed_sec": 94.28,
+        "throughput_mbps": 41.98,
+        "fast_path_hits": 5064,
+        "c_array_overhead": 4.83,
+        "cpu_percent": 5.5,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442096.2793508,
+        "elapsed_sec": 94.55,
+        "throughput_mbps": 45.19,
+        "fast_path_hits": 5080,
+        "c_array_overhead": 4.23,
+        "cpu_percent": 6.8,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442096.557393,
+        "elapsed_sec": 94.82,
+        "throughput_mbps": 45.08,
+        "fast_path_hits": 5100,
+        "c_array_overhead": 4.06,
+        "cpu_percent": 15.0,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442096.8286028,
+        "elapsed_sec": 95.09,
+        "throughput_mbps": 43.81,
+        "fast_path_hits": 5121,
+        "c_array_overhead": 2.44,
+        "cpu_percent": 13.9,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442097.1109138,
+        "elapsed_sec": 95.38,
+        "throughput_mbps": 47.92,
+        "fast_path_hits": 5134,
+        "c_array_overhead": 4.0,
+        "cpu_percent": 6.7,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442097.377679,
+        "elapsed_sec": 95.64,
+        "throughput_mbps": 45.09,
+        "fast_path_hits": 5144,
+        "c_array_overhead": 1.79,
+        "cpu_percent": 6.7,
+        "ram_percent": 53.7
+    },
+    {
+        "timestamp": 1793442097.6431355,
+        "elapsed_sec": 95.91,
+        "throughput_mbps": 47.13,
+        "fast_path_hits": 5165,
+        "c_array_overhead": 2.53,
+        "cpu_percent": 3.0,
+        "ram_percent": 53.7
+    },
+    {
+        "timestamp": 1793442097.9272344,
+        "elapsed_sec": 96.19,
+        "throughput_mbps": 43.57,
+        "fast_path_hits": 5181,
+        "c_array_overhead": 3.39,
+        "cpu_percent": 3.8,
+        "ram_percent": 53.7
+    },
+    {
+        "timestamp": 1793442098.2108119,
+        "elapsed_sec": 96.48,
+        "throughput_mbps": 40.62,
+        "fast_path_hits": 5189,
+        "c_array_overhead": 1.19,
+        "cpu_percent": 10.1,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442098.4772544,
+        "elapsed_sec": 96.74,
+        "throughput_mbps": 51.06,
+        "fast_path_hits": 5209,
+        "c_array_overhead": 3.36,
+        "cpu_percent": 10.0,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442098.742386,
+        "elapsed_sec": 97.01,
+        "throughput_mbps": 47.15,
+        "fast_path_hits": 5219,
+        "c_array_overhead": 1.9,
+        "cpu_percent": 12.0,
+        "ram_percent": 53.6
+    },
+    {
+        "timestamp": 1793442099.0056698,
+        "elapsed_sec": 97.27,
+        "throughput_mbps": 42.19,
+        "fast_path_hits": 5225,
+        "c_array_overhead": 4.9,
+        "cpu_percent": 6.8,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442099.2789066,
+        "elapsed_sec": 97.55,
+        "throughput_mbps": 50.85,
+        "fast_path_hits": 5247,
+        "c_array_overhead": 3.4,
+        "cpu_percent": 8.2,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442099.5328658,
+        "elapsed_sec": 97.8,
+        "throughput_mbps": 45.89,
+        "fast_path_hits": 5264,
+        "c_array_overhead": 1.01,
+        "cpu_percent": 15.2,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442099.7851348,
+        "elapsed_sec": 98.05,
+        "throughput_mbps": 40.62,
+        "fast_path_hits": 5283,
+        "c_array_overhead": 4.98,
+        "cpu_percent": 7.6,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442100.0530148,
+        "elapsed_sec": 98.32,
+        "throughput_mbps": 41.13,
+        "fast_path_hits": 5306,
+        "c_array_overhead": 2.24,
+        "cpu_percent": 8.1,
+        "ram_percent": 53.5
+    },
+    {
+        "timestamp": 1793442100.3208046,
+        "elapsed_sec": 98.59,
+        "throughput_mbps": 48.97,
+        "fast_path_hits": 5316,
+        "c_array_overhead": 3.31,
+        "cpu_percent": 3.5,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442100.5907333,
+        "elapsed_sec": 98.86,
+        "throughput_mbps": 50.33,
+        "fast_path_hits": 5339,
+        "c_array_overhead": 2.14,
+        "cpu_percent": 1.8,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442100.8700902,
+        "elapsed_sec": 99.14,
+        "throughput_mbps": 44.54,
+        "fast_path_hits": 5350,
+        "c_array_overhead": 3.23,
+        "cpu_percent": 1.7,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442101.136349,
+        "elapsed_sec": 99.4,
+        "throughput_mbps": 44.84,
+        "fast_path_hits": 5363,
+        "c_array_overhead": 3.05,
+        "cpu_percent": 1.4,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442101.4051178,
+        "elapsed_sec": 99.67,
+        "throughput_mbps": 50.79,
+        "fast_path_hits": 5377,
+        "c_array_overhead": 2.52,
+        "cpu_percent": 1.5,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442101.6716728,
+        "elapsed_sec": 99.94,
+        "throughput_mbps": 47.11,
+        "fast_path_hits": 5382,
+        "c_array_overhead": 4.39,
+        "cpu_percent": 1.1,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442101.9522507,
+        "elapsed_sec": 100.22,
+        "throughput_mbps": 40.86,
+        "fast_path_hits": 5404,
+        "c_array_overhead": 1.85,
+        "cpu_percent": 2.4,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442102.2183654,
+        "elapsed_sec": 100.48,
+        "throughput_mbps": 45.81,
+        "fast_path_hits": 5426,
+        "c_array_overhead": 1.01,
+        "cpu_percent": 1.4,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442102.4850285,
+        "elapsed_sec": 100.75,
+        "throughput_mbps": 51.02,
+        "fast_path_hits": 5443,
+        "c_array_overhead": 1.87,
+        "cpu_percent": 1.5,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442102.7559347,
+        "elapsed_sec": 101.02,
+        "throughput_mbps": 43.93,
+        "fast_path_hits": 5461,
+        "c_array_overhead": 3.67,
+        "cpu_percent": 3.5,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442103.0226948,
+        "elapsed_sec": 101.29,
+        "throughput_mbps": 41.92,
+        "fast_path_hits": 5466,
+        "c_array_overhead": 1.86,
+        "cpu_percent": 3.7,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442103.2899432,
+        "elapsed_sec": 101.56,
+        "throughput_mbps": 48.42,
+        "fast_path_hits": 5476,
+        "c_array_overhead": 3.59,
+        "cpu_percent": 1.3,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442103.5684288,
+        "elapsed_sec": 101.83,
+        "throughput_mbps": 44.33,
+        "fast_path_hits": 5485,
+        "c_array_overhead": 1.74,
+        "cpu_percent": 1.3,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442103.8347929,
+        "elapsed_sec": 102.1,
+        "throughput_mbps": 50.87,
+        "fast_path_hits": 5507,
+        "c_array_overhead": 4.14,
+        "cpu_percent": 3.0,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442104.1039696,
+        "elapsed_sec": 102.37,
+        "throughput_mbps": 42.17,
+        "fast_path_hits": 5512,
+        "c_array_overhead": 2.08,
+        "cpu_percent": 2.0,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442104.3843064,
+        "elapsed_sec": 102.65,
+        "throughput_mbps": 48.13,
+        "fast_path_hits": 5536,
+        "c_array_overhead": 1.18,
+        "cpu_percent": 8.5,
+        "ram_percent": 53.3
+    },
+    {
+        "timestamp": 1793442104.6652284,
+        "elapsed_sec": 102.93,
+        "throughput_mbps": 47.45,
+        "fast_path_hits": 5548,
+        "c_array_overhead": 3.9,
+        "cpu_percent": 8.6,
+        "ram_percent": 53.4
+    },
+    {
+        "timestamp": 1793442104.9324675,
+        "elapsed_sec": 103.2,
+        "throughput_mbps": 40.07,
+        "fast_path_hits": 5557,
+        "c_array_overhead": 2.44,
+        "cpu_percent": 7.9,
+        "ram_percent": 53.3
+    },
+    {
+        "timestamp": 1793442105.1824732,
+        "elapsed_sec": 103.45,
+        "throughput_mbps": 47.12,
+        "fast_path_hits": 5563,
+        "c_array_overhead": 2.08,
+        "cpu_percent": 9.7,
+        "ram_percent": 53.3
+    },
+    {
+        "timestamp": 1793442105.433663,
+        "elapsed_sec": 103.7,
+        "throughput_mbps": 46.5,
+        "fast_path_hits": 5580,
+        "c_array_overhead": 3.22,
+        "cpu_percent": 8.5,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442105.7016284,
+        "elapsed_sec": 103.97,
+        "throughput_mbps": 48.72,
+        "fast_path_hits": 5595,
+        "c_array_overhead": 3.19,
+        "cpu_percent": 1.5,
+        "ram_percent": 53.2
+    },
+    {
+        "timestamp": 1793442105.9684432,
+        "elapsed_sec": 104.23,
+        "throughput_mbps": 49.17,
+        "fast_path_hits": 5601,
+        "c_array_overhead": 2.1,
+        "cpu_percent": 1.7,
+        "ram_percent": 53.1
+    },
+    {
+        "timestamp": 1793442106.2355819,
+        "elapsed_sec": 104.5,
+        "throughput_mbps": 43.21,
+        "fast_path_hits": 5623,
+        "c_array_overhead": 4.71,
+        "cpu_percent": 3.3,
+        "ram_percent": 52.8
+    },
+    {
+        "timestamp": 1793442106.486184,
+        "elapsed_sec": 104.75,
+        "throughput_mbps": 46.35,
+        "fast_path_hits": 5636,
+        "c_array_overhead": 1.18,
+        "cpu_percent": 4.2,
+        "ram_percent": 52.7
+    },
+    {
+        "timestamp": 1793442106.7371783,
+        "elapsed_sec": 105.0,
+        "throughput_mbps": 50.22,
+        "fast_path_hits": 5643,
+        "c_array_overhead": 2.39,
+        "cpu_percent": 7.8,
+        "ram_percent": 52.7
+    },
+    {
+        "timestamp": 1793442106.9899745,
+        "elapsed_sec": 105.26,
+        "throughput_mbps": 43.92,
+        "fast_path_hits": 5652,
+        "c_array_overhead": 1.72,
+        "cpu_percent": 2.7,
+        "ram_percent": 52.7
+    },
+    {
+        "timestamp": 1793442107.2707217,
+        "elapsed_sec": 105.54,
+        "throughput_mbps": 47.08,
+        "fast_path_hits": 5671,
+        "c_array_overhead": 2.41,
+        "cpu_percent": 8.9,
+        "ram_percent": 52.7
+    },
+    {
+        "timestamp": 1793442107.53732,
+        "elapsed_sec": 105.8,
+        "throughput_mbps": 48.16,
+        "fast_path_hits": 5679,
+        "c_array_overhead": 3.6,
+        "cpu_percent": 3.7,
+        "ram_percent": 52.7
+    },
+    {
+        "timestamp": 1793442107.804822,
+        "elapsed_sec": 106.07,
+        "throughput_mbps": 43.78,
+        "fast_path_hits": 5701,
+        "c_array_overhead": 3.68,
+        "cpu_percent": 12.9,
+        "ram_percent": 52.1
+    },
+    {
+        "timestamp": 1793442108.07119,
+        "elapsed_sec": 106.34,
+        "throughput_mbps": 41.12,
+        "fast_path_hits": 5720,
+        "c_array_overhead": 1.72,
+        "cpu_percent": 10.1,
+        "ram_percent": 51.5
+    },
+    {
+        "timestamp": 1793442108.337614,
+        "elapsed_sec": 106.6,
+        "throughput_mbps": 50.76,
+        "fast_path_hits": 5740,
+        "c_array_overhead": 1.78,
+        "cpu_percent": 0.4,
+        "ram_percent": 51.5
+    },
+    {
+        "timestamp": 1793442108.6048303,
+        "elapsed_sec": 106.87,
+        "throughput_mbps": 46.85,
+        "fast_path_hits": 5755,
+        "c_array_overhead": 4.59,
+        "cpu_percent": 0.8,
+        "ram_percent": 51.5
+    },
+    {
+        "timestamp": 1793442108.871384,
+        "elapsed_sec": 107.14,
+        "throughput_mbps": 45.36,
+        "fast_path_hits": 5767,
+        "c_array_overhead": 3.03,
+        "cpu_percent": 1.0,
+        "ram_percent": 51.5
+    },
+    {
+        "timestamp": 1793442109.1546674,
+        "elapsed_sec": 107.42,
+        "throughput_mbps": 48.83,
+        "fast_path_hits": 5774,
+        "c_array_overhead": 4.74,
+        "cpu_percent": 5.8,
+        "ram_percent": 51.4
+    },
+    {
+        "timestamp": 1793442109.4056602,
+        "elapsed_sec": 107.67,
+        "throughput_mbps": 48.55,
+        "fast_path_hits": 5789,
+        "c_array_overhead": 1.4,
+        "cpu_percent": 1.2,
+        "ram_percent": 51.4
+    },
+    {
+        "timestamp": 1793442109.6817255,
+        "elapsed_sec": 107.95,
+        "throughput_mbps": 48.05,
+        "fast_path_hits": 5804,
+        "c_array_overhead": 3.86,
+        "cpu_percent": 2.8,
+        "ram_percent": 51.4
+    },
+    {
+        "timestamp": 1793442109.9474273,
+        "elapsed_sec": 108.21,
+        "throughput_mbps": 49.22,
+        "fast_path_hits": 5810,
+        "c_array_overhead": 3.56,
+        "cpu_percent": 0.8,
+        "ram_percent": 51.3
+    }
+]

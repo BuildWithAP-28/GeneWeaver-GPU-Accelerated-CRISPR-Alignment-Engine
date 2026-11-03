@@ -1,0 +1,66 @@
+[
+    {
+        "timestamp": 1793703202.395832,
+        "operation": "H2D",
+        "stream_id": 0,
+        "size_mb": 120,
+        "latency_ms": 3.24,
+        "bandwidth_gbs": 36.16
+    },
+    {
+        "timestamp": 1793703202.9387252,
+        "operation": "H2D",
+        "stream_id": 1,
+        "size_mb": 120,
+        "latency_ms": 14.72,
+        "bandwidth_gbs": 7.96
+    },
+    {
+        "timestamp": 1793703203.2442315,
+        "operation": "H2D",
+        "stream_id": 2,
+        "size_mb": 120,
+        "latency_ms": 2.74,
+        "bandwidth_gbs": 42.72
+    },
+    {
+        "timestamp": 1793703203.5638812,
+        "operation": "H2D",
+        "stream_id": 3,
+        "size_mb": 120,
+        "latency_ms": 13.49,
+        "bandwidth_gbs": 8.69
+    },
+    {
+        "timestamp": 1793703203.8845434,
+        "operation": "D2H",
+        "stream_id": 0,
+        "size_mb": 120,
+        "latency_ms": 0.89,
+        "bandwidth_gbs": 132.31
+    },
+    {
+        "timestamp": 1793703204.194209,
+        "operation": "D2H",
+        "stream_id": 1,
+        "size_mb": 120,
+        "latency_ms": 0.21,
+        "bandwidth_gbs": 545.31
+    },
+    {
+        "timestamp": 1793703204.4950938,
+        "operation": "D2H",
+        "stream_id": 2,
+        "size_mb": 120,
+        "latency_ms": 0.73,
+        "bandwidth_gbs": 159.61
+    },
+    {
+        "timestamp": 1793703204.8149614,
+        "operation": "D2H",
+        "stream_id": 3,
+        "size_mb": 120,
+        "latency_ms": 0.35,
+        "bandwidth_gbs": 333.96
+    }
+]
