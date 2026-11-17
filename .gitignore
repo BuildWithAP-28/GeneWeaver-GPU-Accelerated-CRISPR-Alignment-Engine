@@ -7,14 +7,17 @@ __pycache__/
 geneweaver_env/
 .env
 
-# Data and Logs
+# Data, Reports and Logs
 data/
 logs/
+reports/
 *.fasta
 *.fasta.gz
 *.fastq
 *.log
+*.json
+*.csv
 
 # OS generated files
 .DS_Store
-Thumbs.dbreports/
+Thumbs.db
