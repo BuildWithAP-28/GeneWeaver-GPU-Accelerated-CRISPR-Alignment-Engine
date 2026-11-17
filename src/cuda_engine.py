@@ -130,7 +130,8 @@ class CUDAExecutionEngine:
 
     def execute_kernel(self, d_dna_array: Any, d_target_array: Any, seq_len: int, target_len: int) -> Tuple[int, float, int]:
         blocks_per_grid = self.calculate_grid_dim(seq_len)
-        d_match_counts = cuda.to_device(np.zeros(1, dtype=np.int32))
+        # Cast as a 64-bit unsigned integer to avoid integer overflow
+        d_match_counts = cuda.to_device(np.zeros(1, dtype=np.uint64))
         
         # Hardware synchronization before timing
         cuda.synchronize()
@@ -278,16 +279,19 @@ class AdvancedCUDABenchmarkSuite:
                 del d_dna
                 time.sleep(1) # Visual pacing for the dashboard
                 
-        del d_target
-        self.exporter.save()
-        
+            del d_target
+            self.exporter.save()
+            layout["footer"].update(Panel(Text("STRESS TEST COMPLETE // PRESS CTRL+C TO EXIT", style="bold red justify-center"), style="on black", border_style="red"))
+            
+            # FIXED: Loop is INSIDE the `with Live` block so the UI stays on screen!
+            try:
+                while True:
+                    time.sleep(0.5)
+            except KeyboardInterrupt:
+                pass 
+                
+        # Ye Live UI band hone ke baad print hoga!
         console.print(f"\n[bold bright_green][+] Day 13 Kernel Test Complete. Telemetry saved to {self.exporter.export_dir}[/bold bright_green]")
-        layout["footer"].update(Panel(Text("STRESS TEST COMPLETE // PRESS CTRL+C TO EXIT", style="bold red justify-center"), style="on black", border_style="red"))
-        try:
-            while True:
-                time.sleep(1)
-        except KeyboardInterrupt:
-            pass
 
 if __name__ == "__main__":
     suite = AdvancedCUDABenchmarkSuite()
